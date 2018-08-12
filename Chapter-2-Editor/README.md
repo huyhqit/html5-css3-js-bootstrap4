@@ -1,5 +1,7 @@
 # Editor
+
 ### Visual studio
+
  - Có sẵn cả trên Windows, Mac, Linux
  - Hỗ trợ terminal đi kèm trong từng file code
  - Auto complete
