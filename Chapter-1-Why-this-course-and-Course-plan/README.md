@@ -1,6 +1,12 @@
-﻿# Why this course and Course plan
+﻿
+# Why this course and Course plan
 
-## Why this course
+**Overview**
+- Overview the course and plan
+
+**Detail**
+
+**Why this course**
 
 - Những công nghệ học được từ course đều được áp dụng vào website
 - Hướng dẫn tạo responsive và từng bước một sử dụng photoshop
@@ -12,28 +18,28 @@
 - Build 3 stunning responsive websites
 - Explain + apply many difference technology to website
 
-## Course Plan
+**Course Plan**
 
-### Goal of this course:
+**Goal of this course:**
 
 	- Convert 3 file PSD
 	- Code 3 stunning websites
 	- Build 3 responsive websites
 	
-### Photoshop
+**Photoshop**
 
 	-	Use Photoshop
 	-	Get color and font
 	-	Explain the most common tool of adobe photoshop
 	-	Control layers and useful short cuts...
 	
-### Bootstrap 4
+**Bootstrap 4**
 
 	-	Introduction of bootstrap 4 and grid systems
 	-	use components like forms, input, card,...
 	-	Further explain most common bootstrap 4 classis
 	
-### Sass & Less CSS preprocessor
+**Sass & Less CSS preprocessor**
 
 - What is a preprocessor?
 - Why should use?
@@ -41,13 +47,13 @@
 - How to install it
 - Feature of Less and Sass
 
-### Trello
+**Trello**
 
 - What is it?
 - Why use it?
 - How can use it in to our project
 
-### While we are working with this websites you will learn how to:
+**While we are working with this websites you will learn how to:**
 
 1. Prepare your website files
 2. Write reusable code with comments for section
@@ -59,11 +65,11 @@
 8. Use animate CSS library to animation some elements
 9. After we are going to check responsive and Performance of websites
 
-### 404 - penguins page
+**404 - penguins page**
 
 	- Advanced CSS keyframes animation and positoning
 	
-### Merkury Website
+**Merkury Website**
 
 #### 2 projects
 
@@ -76,3 +82,55 @@
 7. Finish solutions working around
 8. After we finish check responsive website and performance
 
+**Bookmark**
+- None
+
+# Editor
+
+**Overview**
+
+- Introduction VSCode Editor
+
+**Details**
+why choose **Visual studio**:
+ - Có sẵn cả trên Windows, Mac, Linux
+ - Hỗ trợ terminal đi kèm trong từng file code
+ - Auto complete
+ - Emmet tăng tốc độ code
+ - Hỗ trợ nhiều Extensions  giúp dễ dang code Sass, Less
+ - Recommend 2 plugin cho Sass: 
+	- Live Sass compiler
+	- Sass
+
+**Bookmark**
+- [Link Download VSCode](https://code.visualstudio.com/Download)
+
+# Photoshop
+
+**Overview**
+- Step by step use Adobe Photoshop
+
+**Details**
+
+- Sử dụng photoshop để cắt các layout websites
+	- Tạo file mới: Ctrl + N
+	- Mở file có sẵn: Ctrl + O
+	- Zoom: Z
+	- Lấy được các khoảng các giữa các vị trí: M
+	- Lấy được màu: S
+	- Font chữ, size chữ: T
+	- Crop hình: C
+	- Move layout: V
+
+**Bookmark**
+- [Get step-by-step instructions](https://helpx.adobe.com/photoshop/user-guide.html)
+
+# Bootstrap 4
+
+**Overview**
+
+**Details**
+
+**Bookmark**
+
+<h1 id="bootstrap4">Bootstrap 4</h1>
