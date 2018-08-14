@@ -1,5 +1,5 @@
 ﻿
-# Why this course and Course plan
+<h1 id="session1">Why this course and Course plan</h1>
 
 **Overview**
 - Overview the course and plan
@@ -85,7 +85,7 @@
 **Bookmark**
 - None
 
-# Editor
+<h1 id='session2'>Editor</h1>
 
 **Overview**
 
@@ -105,7 +105,7 @@ why choose **Visual studio**:
 **Bookmark**
 - [Link Download VSCode](https://code.visualstudio.com/Download)
 
-# Photoshop
+<h1 id='session3'> Photoshop</h1>
 
 **Overview**
 - Step by step use Adobe Photoshop
@@ -125,7 +125,7 @@ why choose **Visual studio**:
 **Bookmark**
 - [Get step-by-step instructions](https://helpx.adobe.com/photoshop/user-guide.html)
 
-# Bootstrap 4
+<h1 id='session4'>Bootstrap 4</h1>
 
 **Overview**
 
@@ -188,7 +188,7 @@ why choose **Visual studio**:
 
 [Bootstrap 4 docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
-# Preprocessors SASS vs LESS
+<h1 id='session5'>Preprocessors SASS vs LESS</h1>
 
 **Overview**
 
@@ -308,7 +308,7 @@ why choose **Visual studio**:
 - [LESS docs](http://lesscss.org)
 - [SASS docs](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
-# Trello
+<h1 id='session6'>Trello</h1>
 
 **Overview**
 

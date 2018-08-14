@@ -18,9 +18,9 @@
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:
-1. [Session 1](./Chapter-1-Why-this-course-and-Course-plan/README.md#bootstrap4)
-2. [Session 2](./Chapter-2-Editor/README.md)
-3. [Session 3](./Chapter-3-Photoshop/README.md)
+1. [Session 1](./Chapter-1-Introduction+Course-Essentials/README.md#session1)
+2. [Session 2](./Chapter-1-Introduction+Course-Essentials/README.md#session2)
+3. [Session 3](./Chapter-1-Introduction+Course-Essentials/README.md#session3)
 
 **Day 2: 13/08/2018**
 
@@ -35,7 +35,7 @@
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
 **Link(s) to work:
-1. [Session 4](./Chapter-4-Bootstrap-4/README.md)
+1. [Session 4](./Chapter-1-Introduction+Course-Essentials/README.md#session4)
 
 **Day 3: 14/08/2018**
 
@@ -69,8 +69,8 @@
 
 **Link(s) to work:
 
-1. [Session 5](./Chapter-5-Preprocessors-SASS-vs-LESS/README.md)
-2. [Session 6](./Chapter-6-Trello-The-Project-Manager/README.md)
-3. [Session 7](./Chapter-7-OpenCharity-Overview/README.md)
-4. [Session 8](./Chapter-8-Prepare-File/README.md)
+1. [Session 5](./Chapter-1-Introduction+Course-Essentials/README.md#session5)
+2. [Session 6](./Chapter-1-Introduction+Course-Essentials/README.md#session6)
+3. [Session 7](./Chapter-7-OpenCharity-Overview/README.md#session7)
+4. [Session 8](./Chapter-8-Prepare-File/README.md#session8)
 
