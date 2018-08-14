@@ -11,9 +11,9 @@
 
 **Today's progress**
 
-- Overview course Build 3 Real World Websites Using HTML5, CSS3, JS, Bootstraps 4.
-- Setup editor.
-- Learning how to use Photoshop in slice websites
+- Finish Session 1: Overview course Build 3 Real World Websites Using HTML5, CSS3, JS, Bootstraps 4.
+- Finish Session 2: Setup editor.
+- Finish Session 3: Learning how to use Photoshop in slice websites
 
 **Thoughts:** i am interesting this course
 
@@ -26,9 +26,7 @@
 
 **Today's progress**
 
-- Learning use Bootstrap 4
-- Setup editor.
-- Learning how to use Photoshop in slice websites
+- Finish Session 4: Learning use Bootstrap 4
 
 **Thoughts:**
 
@@ -38,5 +36,41 @@
 
 **Link(s) to work:
 1. [Session 4](./Chapter-4-Bootstrap-4/README.md)
-2. [Session 5](./Chapter-5-Preprocessors-SASS-vs-LESS/README.md)
+
+**Day 3: 14/08/2018**
+
+**Today's progress**
+
+- Finish Session 5: Learning Perprocessors Sass and Less
+    - DRY principle (don't repeat yourself)
+        - Variables
+        - Maxins
+        - Functions
+    - Maintainability
+    - Readability
+    - Natural Extension
+
+- Finish Session 6: Trello The Project Manager
+    - Trello keeps track of everything
+- Finish Session 7: OpenCharity Overview
+    - Overview require of a website
+- Finish Session 8: Prepare File
+    - Step-by-step prepare file for project
+    - Using Trello to keep track work
+    - Make structure project's folder
+- Finish Session 9: Linking File + Implementing Style sheet
+
+**Thoughts:**
+
+- Using SASS and Less is save code
+- Should see general before code
+- Keep track the process while working
+- How to use Photoshop export image and font
+
+**Link(s) to work:
+
+1. [Session 5](./Chapter-5-Preprocessors-SASS-vs-LESS/README.md)
+2. [Session 6](./Chapter-6-Trello-The-Project-Manager/README.md)
+3. [Session 7](./Chapter-7-OpenCharity-Overview/README.md)
+4. [Session 8](./Chapter-8-Prepare-File/README.md)
 
