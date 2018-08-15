@@ -26,7 +26,7 @@
 
 **Today's progress**
 
-- Finish Session 4: Learning use Bootstrap 4
+- Finish Section 4: Learning use Bootstrap 4
 
 **Thoughts:**
 
@@ -35,13 +35,13 @@
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
 **Link(s) to work:**
-1. [Session 4](./Chapter-1-Introduction+Course-Essentials/README.md#session4)
+1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#session4)
 
 **Day 3: 14/08/2018**
 
 **Today's progress**
 
-- Finish Session 5: Learning Perprocessors Sass and Less
+- Finish Section 5: Learning Perprocessors Sass and Less
     - DRY principle (don't repeat yourself)
         - Variables
         - Maxins
@@ -50,15 +50,15 @@
     - Readability
     - Natural Extension
 
-- Finish Session 6: Trello The Project Manager
+- Finish Section 6: Trello The Project Manager
     - Trello keeps track of everything
-- Finish Session 7: OpenCharity Overview
+- Finish Section 7: OpenCharity Overview
     - Overview require of a website
-- Finish Session 8: Prepare File
+- Finish Section 8: Prepare File
     - Step-by-step prepare file for project
     - Using Trello to keep track work
     - Make structure project's folder
-- Finish Session 9: Linking File + Implementing Style sheet
+- Finish Section 9: Linking File + Implementing Style sheet
     - Link file and font
     - Making some variables for color and font
 
@@ -72,21 +72,34 @@
 
 **Link(s) to work:**
 
-1. [Session 5](./Chapter-1-Introduction+Course-Essentials/README.md#session5)
-2. [Session 6](./Chapter-1-Introduction+Course-Essentials/README.md#trello-the-project-manager)
-3. [Session 7](./Chapter-2-OpenCharity-Overview/README.md#opencharity-overview)
-4. [Session 8](./Chapter-2-OpenCharity-Overview/README.md#prepare-file)
-5. [Session 9](./Chapter-2-OpenCharity-Overview/README.md#linking-files-and-implementing-style-sheet)
+1. [Section 5](./Chapter-1-Introduction+Course-Essentials/README.md#preprocessors-sass-vs-less  )
+2. [Section 6](./Chapter-1-Introduction+Course-Essentials/README.md#trello-the-project-manager)
+3. [Section 7](./Chapter-2-OpenCharity-Overview/README.md#opencharity-overview)
+4. [Section 8](./Chapter-2-OpenCharity-Overview/README.md#prepare-file)
+5. [Section 9](./Chapter-2-OpenCharity-Overview/README.md#linking-file-and-implementing-style-sheet)
 
 **Day 4: 15/08/2018**
 
 **Today's progress**
-- Finish Session 10: Nav Bar - Part 1
-- Finish Session 11: Nav Bar - Part 2
-- Finish Session 12: Header - Part 1
-- Finish Session 13: Header - Part 2
+- Finish Section 10: Nav Bar - Part 1
+    - Implement HTML for navbar
+- Finish Section 11: Nav Bar - Part 2
+    - Using jQuery make animation when scroll
+- Finish Section 12: Header - Part 1
+    - Implement HTML for header
+    - It consists of two main parts
+- Finish Section 13: Header - Part 2
+    - Implement CSS to header
 - Finish Section 14: Get Involved section
 
 **Through**
 
 **Link(s) to work**
+
+1. [Section 10](/Chapter-2-OpenCharity-Overview/README.md#navbar-part-1)
+2. [Section 11](/Chapter-2-OpenCharity-Overview/README.md#navbar-part-2)
+3. [Section 12](/Chapter-2-OpenCharity-Overview/README.md#header-part-1)
+4. [Section 13](/Chapter-2-OpenCharity-Overview/README.md#header-part-2)
+5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#)
+6. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#)
+7. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#)
