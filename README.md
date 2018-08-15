@@ -11,16 +11,16 @@
 
 **Today's progress**
 
-- Finish Session 1: Overview course Build 3 Real World Websites Using HTML5, CSS3, JS, Bootstraps 4.
-- Finish Session 2: Setup editor.
-- Finish Session 3: Learning how to use Photoshop in slice websites
+- Finish Section 1: Overview course Build 3 Real World Websites Using HTML5, CSS3, JS, Bootstraps 4.
+- Finish Section 2: Setup editor.
+- Finish Section 3: Learning how to use Photoshop in slice websites
 
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:**
-1. [Session 1](./Chapter-1-Introduction+Course-Essentials/README.md#session1)
-2. [Session 2](./Chapter-1-Introduction+Course-Essentials/README.md#session2)
-3. [Session 3](./Chapter-1-Introduction+Course-Essentials/README.md#session3)
+1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#session1)
+2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#session2)
+3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#session3)
 
 **Day 2: 13/08/2018**
 
@@ -83,6 +83,9 @@
 **Today's progress**
 - Finish Session 10: Nav Bar - Part 1
 - Finish Session 11: Nav Bar - Part 2
+- Finish Session 12: Header - Part 1
+- Finish Session 13: Header - Part 2
+- Finish Section 14: Get Involved section
 
 **Through**
 
