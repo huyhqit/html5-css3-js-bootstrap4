@@ -75,6 +75,15 @@
 1. [Session 5](./Chapter-1-Introduction+Course-Essentials/README.md#session5)
 2. [Session 6](./Chapter-1-Introduction+Course-Essentials/README.md#trello-the-project-manager)
 3. [Session 7](./Chapter-2-OpenCharity-Overview/README.md#opencharity-overview)
-4. [Session 8](./Chapter-8-Prepare-File/README.md#prepare-file)
-5. [Session 9](./Chapter-2-OpenCharity-Overview/README.md#linking-files+implementing-style-sheet)
+4. [Session 8](./Chapter-2-OpenCharity-Overview/README.md#prepare-file)
+5. [Session 9](./Chapter-2-OpenCharity-Overview/README.md#linking-files-and-implementing-style-sheet)
 
+**Day 4: 15/08/2018**
+
+**Today's progress**
+- Finish Session 10: Nav Bar - Part 1
+- Finish Session 11: Nav Bar - Part 2
+
+**Through**
+
+**Link(s) to work**

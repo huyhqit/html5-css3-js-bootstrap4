@@ -78,11 +78,26 @@ None
 
 **Bookmark**
 
-**Result**
-
-![Nav Bar](./session10.png)
 
 <h1 id='session11'>Navbar - part 2</h1>
+
+**Overview**
+
+- Using jQuery
+
+**Details**
+
+- Closes responsive menu when a scroll trigger link is clicked
+- Activate scrollsp to add active class to navbar items on scroll
+- On scroll down .. if the offset is higher
+
+**Bookmark**
+
+**Result**
+
+![Nav Bar](./session11.PNG)
+
+<h1 id='session12'>Header - part 1</h1>
 
 **Overview**
 
@@ -91,3 +106,17 @@ None
 **Bookmark**
 
 **Result**
+
+![Header](./session12.PNG)
+
+<h1 id='session13'>Header - part 2</h1>
+
+**Overview**
+
+**Details**
+
+**Bookmark**
+
+**Result**
+
+![Header](./session13.PNG)

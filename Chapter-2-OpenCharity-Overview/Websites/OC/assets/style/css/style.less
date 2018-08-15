@@ -187,3 +187,107 @@ h5 {
         }
     }
 }
+
+/*************Header**********/
+
+#header {
+    overflow-x: hidden;
+    #header-container {
+        padding: 50px;
+        background: url('../../img/icons/Header.png');
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        .text-container {
+            margin-top: 100px;
+
+            h1,h4 {
+                color: @white-color;
+                line-height: 1.5em;
+            }
+
+            h1 {
+                font-family: @muse-300-font;
+            }
+
+            h4 {
+                font-family: @opensans-font;
+            }
+        }
+    } // end container
+    #footer-container {
+        background-color: darken(@white-color, 5%);
+        padding: 30px;
+        border-bottom: 1px solid darken(@white-color, 10%);
+
+        button {
+            color: @white-color;
+            background-color: @main-color;
+            font-size: 20px;
+            font-family: @muse-500-font;
+            float: right;
+            margin: 0 0 10px 10px;
+        }
+
+        .event-details {
+            font-family: @muse-500-font;
+            font-size: 18px;
+            color: @dark-grey-color;
+            a {
+                font-family: @opensans-semibold-font;
+                font-size: 16px;
+            }
+        }
+
+        p {
+            color: @light-grey-color;
+            font-family: @opensans-font;
+        }
+    } // End footer-container
+}
+
+/************* GET INVOLVED ***********/
+#get-involved {
+    padding: 50px 0;
+    .container {
+        h3 {
+            font-family: @muse-500-font;
+            margin-bottom: 50px;
+        }
+        .row {
+            .col-md-4 {
+                img {
+                    height: 150px;
+                    margin: 0 auto;
+                    display: block;
+                    margin-bottom: 30px;
+                }
+                h4 {
+                    font-family: @muse-500-font;
+                    margin-bottom: 15px;
+                }
+                p {
+                    font-family: @opensans-font;
+                    line-height: 1.5;
+                }
+                a {
+                    margin-top: 10px;
+                }
+            }
+        }
+    }
+}
+/************* MEDIA-QUERY ************/
+
+@media only screen and (min-width: 300px) {
+    #navbar {
+        box-shadow: 0px 1px 7px @light-grey-color;
+    }
+
+    #navbar.navbar-shrink {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background: @white-color;
+    }
+}
