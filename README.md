@@ -17,7 +17,7 @@
 
 **Thoughts:** i am interesting this course
 
-**Link(s) to work:
+**Link(s) to work:**
 1. [Session 1](./Chapter-1-Introduction+Course-Essentials/README.md#session1)
 2. [Session 2](./Chapter-1-Introduction+Course-Essentials/README.md#session2)
 3. [Session 3](./Chapter-1-Introduction+Course-Essentials/README.md#session3)
@@ -34,7 +34,7 @@
 - Responsive very cool
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
-**Link(s) to work:
+**Link(s) to work:**
 1. [Session 4](./Chapter-1-Introduction+Course-Essentials/README.md#session4)
 
 **Day 3: 14/08/2018**
@@ -59,6 +59,8 @@
     - Using Trello to keep track work
     - Make structure project's folder
 - Finish Session 9: Linking File + Implementing Style sheet
+    - Link file and font
+    - Making some variables for color and font
 
 **Thoughts:**
 
@@ -66,11 +68,13 @@
 - Should see general before code
 - Keep track the process while working
 - How to use Photoshop export image and font
+- Using less helps to better reuse code 
 
-**Link(s) to work:
+**Link(s) to work:**
 
 1. [Session 5](./Chapter-1-Introduction+Course-Essentials/README.md#session5)
-2. [Session 6](./Chapter-1-Introduction+Course-Essentials/README.md#session6)
-3. [Session 7](./Chapter-7-OpenCharity-Overview/README.md#session7)
-4. [Session 8](./Chapter-8-Prepare-File/README.md#session8)
+2. [Session 6](./Chapter-1-Introduction+Course-Essentials/README.md#trello-the-project-manager)
+3. [Session 7](./Chapter-2-OpenCharity-Overview/README.md#opencharity-overview)
+4. [Session 8](./Chapter-8-Prepare-File/README.md#prepare-file)
+5. [Session 9](./Chapter-2-OpenCharity-Overview/README.md#linking-files+implementing-style-sheet)
 

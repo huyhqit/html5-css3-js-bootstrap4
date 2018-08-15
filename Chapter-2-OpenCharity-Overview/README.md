@@ -53,6 +53,41 @@
 
 **Overview**
 
+- Linking file and making some variables for color and font
+
+**Details**
+
+- Create some variables color and font
+- Genral reset using [meyerweb](https://meyerweb.com/eric/tools/css/reset/)
+- Custom settings html, body,... tags
+
+**Bookmark**
+
+None
+
+<h1 id='session10'>Navbar - part 1</h1>
+
+**Overview**
+
+- Create Sessions
+
+**Details**
+
+- Session Involved, Mission, Members, Event, Blog, Contact
+- Customize class `navbar-toggler` `nav-item` `nav-link`
+
+**Bookmark**
+
+**Result**
+
+![Nav Bar](./session10.png)
+
+<h1 id='session11'>Navbar - part 2</h1>
+
+**Overview**
+
 **Details**
 
 **Bookmark**
+
+**Result**
