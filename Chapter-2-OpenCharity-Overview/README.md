@@ -159,4 +159,91 @@ None
 
 **Result**
 
-![Header](./section14.PNG)
+![Get Involved Section](./section14.PNG)
+
+<h1 id="section15">Mission section</h1>
+
+**Overview**
+
+- We have a title and two subtitles
+- And three cards so inside container
+
+**Details**
+
+- We will say section with id of `mission` inside this section will have div with a class `container`
+- This one will be an h3 tag and this one will be h5 and this one be h4
+- Under the h4 we will create a row, inside the row we have three div tag with class `col-md-4`
+- Here we need a card get component bootstrap
+- Image exported from file PSD with name mission1, mission2, mission3. It have direction `assets/img/`
+
+**Bookmark**
+
+**Result**
+
+![Mission Section](./section15.PNG)
+
+<h1 id='section16'>Member Section</h1>
+
+**Overview**
+
+- Make a slider
+
+**Details**
+
+- Owl Carousel 2
+- Using 3 file is `owl.carousel.min.css` `owl.theme.default.min.css` and `owl.carousel.min.js`.
+- Slider have 5 image with name member. It have direction `assets/img`.
+- Silder action is `margin`, `smartSpeed`, `nav`, `dots`, `dotsEach`, `loop`, `autoplay`, `mouseDrag`, `touchDrag`, `responsive`.
+
+**Bookmark**
+
+- Owl Carousel 2 download [here](https://owlcarousel2.github.io/OwlCarousel2/)
+
+**Result**
+
+![Member Section](./section16.PNG)
+
+<h1 id='section17'>Event Section</h1>
+
+**Overview**
+
+- Make three event
+  
+**Details**
+
+- Add to our Website some content and it's a simple section contains three bootstrap card
+
+**Bookmark**
+
+**Result**
+
+![Event Section](./section17.PNG)
+
+<h1 id='section18'>Blog Section</h1>
+
+**Overview**
+
+- Make a slider
+  
+**Details**
+
+- User move between slides.
+
+**Bookmark**
+
+**Result**
+
+![Event Section](./section18.PNG)
+
+<h1 id='section19'>Contact Section and Footer</h1>
+
+**Overview**
+  
+**Details**
+
+
+**Bookmark**
+
+**Result**
+
+![Event Section](./section19.PNG)

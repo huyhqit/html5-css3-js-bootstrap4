@@ -91,6 +91,7 @@
 - Finish Section 13: Header - Part 2
     - Implement CSS to header
 - Finish Section 14: Get Involved section
+    - Implement UI for Get Involved section
 
 **Through**
 
@@ -100,6 +101,26 @@
 2. [Section 11](/Chapter-2-OpenCharity-Overview/README.md#navbar-part-2)
 3. [Section 12](/Chapter-2-OpenCharity-Overview/README.md#header-part-1)
 4. [Section 13](/Chapter-2-OpenCharity-Overview/README.md#header-part-2)
-5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#)
-6. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#)
-7. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#)
+5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#get-involved-section)
+
+**Day 5: 16/08/2018**
+
+**Today's progress**
+
+- Finish Section 15: Mission section
+- Finish Section 16: Member section
+- Finish Section 17: Event section
+- Finish Section 18: Blog section
+- Finish Section 19: Contact section and Footer
+
+**Through**
+
+- Bootstrap Carousel is old slider and can't be easily customized.
+
+**Link(s) to work**
+
+1. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#mission-section)
+2. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#member-section)
+3. [Section 17](/Chapter-2-OpenCharity-Overview/README.md#event-section)
+4. [Section 18](/Chapter-2-OpenCharity-Overview/README.md#blog-section)
+5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#contact-section-footer)
