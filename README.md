@@ -131,3 +131,22 @@
 
 - Finish Section 20: Enhancements
     - Animate.css library
+- Finish Section 21: Testing
+    - Testing performance website, bug, optimize file
+- Finish Section 22: Repo
+    - Overview how to make OpenCharity project
+- Finish Section 23: 404 Overview
+
+- Finish Section 24: 404 Prepare File
+
+**Through**
+- Test website is importain
+- Optimize the picture helps performance very fast
+
+**Link(s) to work**
+
+1. [Section 20](/Chapter-2-OpenCharity-Overview/README.md#enhancements)
+2. [Section 21](/Chapter-2-OpenCharity-Overview/README.md#testing)
+3. [Section 22](/Chapter-2-OpenCharity-Overview/README.md#repo)
+4. [Section 23](/Chapter-3-404-penguins-page#404-overview)
+5. [Section 24](/Chapter-3-404-penguins-page#404-prepare-file)
