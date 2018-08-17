@@ -301,7 +301,7 @@ None
 - We can use bootstrap for its components in our website plus adding animation to our project by query or by animate.css
 - And the most important thing that we have learned is how we can organize our project by applying our steps that we have written before
 - And write a clean code with comments.
-- The response of part of our website
+- The response of part of our website.
 -  Website performance and run the markup and the speed test and tested it in the Old and the modern browsers.
 
 **Bookmark**
