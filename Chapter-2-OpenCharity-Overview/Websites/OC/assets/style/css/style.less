@@ -286,6 +286,9 @@ h5 {
     padding: 50px 0;
     border-top: 1px solid darken(@white-color, 10%);
     border-bottom: 1px solid darken(@white-color, 10%);
+
+    opacity: 0;
+    transition: all 0.7s ease-out;
     .container {
         h3,h4 {
             font-family: @muse-500-font;
@@ -305,6 +308,7 @@ h5 {
                         border: 8px solid @white-color;
                         background: @main-color;
                         margin-top: -45px;
+                        width: 100px;
                         img {
                             padding: 16px;
                             width: 75px;
@@ -373,6 +377,7 @@ h5 {
                 a {
                     img {
                         opacity: 0.7;
+                        height: 200px;
                     }
                     img:hover {
                         opacity: 1;
@@ -501,5 +506,8 @@ footer {
     }
     #blog {
         padding-bottom: 0;
+    }
+    #mission {
+        opacity: 1;
     }
 }

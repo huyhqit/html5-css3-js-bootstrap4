@@ -123,4 +123,11 @@
 2. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#member-section)
 3. [Section 17](/Chapter-2-OpenCharity-Overview/README.md#event-section)
 4. [Section 18](/Chapter-2-OpenCharity-Overview/README.md#blog-section)
-5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#contact-section-footer)
+5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#contact-section-footer-and-footer)
+
+**Day 6: 17/08/2018**
+
+**Today's progress**
+
+- Finish Section 20: Enhancements
+    - Animate.css library

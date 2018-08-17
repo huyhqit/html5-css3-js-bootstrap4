@@ -247,3 +247,64 @@ None
 **Result**
 
 ![Event Section](./section19.PNG)
+
+<h1 id="section20">Enhancements</h1>
+
+**Overview**
+
+- Using libary Animate.css to animate the bottom
+- CSS smooth croll
+
+**Details**
+
+**Bookmark**
+
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [Smooth Scroling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+**Result**
+
+<h1 id="section21">Testing</h1>
+
+**Overview**
+- Test in mobile.
+- Compressing images.
+- Cross browser testing.
+- static sites host.
+- W3C markup validation server.
+- Website speed test.
+
+**Details**
+- Test resposive in mobile
+- Using optimizilla to optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+- Cross browser is testing in chrome, firefox, IE.
+- Upload your website files to static sites host bitballoon or other for running tests.
+- This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
+- Using pingdom to speed test website.
+
+**Bookmark**
+
+- [Optimizilla](https://imagecompressor.com/)
+- [Bitballoon](https://www.bitballoon.com/)
+- [W3C markup validation server](https://validator.w3.org/)
+- [Pingdom](https://tools.pingdom.com/)
+
+<h1 id="section22">Recap</h1>
+
+**Overview**
+- Summarizes the code OpenCharity project process.
+
+**Details**
+- Export images and getting the colors by photoshop.
+- The forms of our website then moving to sync our variables and customs sheet for the website.
+- We have learned how we can test our code
+- We can use bootstrap for its components in our website plus adding animation to our project by query or by animate.css
+- And the most important thing that we have learned is how we can organize our project by applying our steps that we have written before
+- And write a clean code with comments.
+- The response of part of our website
+-  Website performance and run the markup and the speed test and tested it in the Old and the modern browsers.
+
+**Bookmark**
+
+- [OpenCharity](https://opencharity-frontend.netlify.com/)
+
