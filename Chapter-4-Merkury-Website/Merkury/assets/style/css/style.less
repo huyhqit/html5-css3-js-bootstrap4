@@ -1,0 +1,159 @@
+/****************** FONT ***********************/
+@font-face {
+    font-family: 'roboto-thin';
+    src: url('../font/roboto/Roboto-Thin.ttf')
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../font/roboto/Roboto-Regular.ttf')
+}
+@font-face {
+    font-family: 'roboto-medium';
+    src: url('../font/roboto/Roboto-Medium.ttf')
+}
+@font-face {
+    font-family: 'roboto-bold';
+    src: url('../font/roboto/Roboto-Bold.ttf')
+}
+/****************** VARIABLES ***********************/
+// COLOR VARIABLES
+@dark-blue-color: #0e1a35;
+@light-blue-color: #5584ff;
+@light-gray-color: #8492af;
+@black-color: #000000;
+@white-color: #fff;
+// FONTS VARIABLES
+@roboto-font: 'roboto', Georgia, serif;
+@roboto-bold-font: 'roboto-bold', Helvetica, Arial, sans-serif;
+@roboto-thin-font: 'roboto-thin', Arial, sans-serif;
+@roboto-medium-font: 'roboto-medium', Arial, sans-serif;
+/****************** GENERAL RESET ***********************/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ol, ul, li {
+	list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+}
+/****************** CUSTOM SETTINGS ***********************/
+html {
+    background-color: @dark-blue-color;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: @white-color;
+    overflow: hidden;
+}
+
+section {
+    padding: 50px 0;
+}
+
+p, ul, ol {
+    margin-bottom: 0.5em;
+}
+
+p a, h5 a {
+    font-weight: bold;
+    transition: all 0.5s ease-out;
+}
+
+h1, h2, h3, h4, h5 {
+    line-height: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+/****************** NAVBAR ***********************/
+#mainNav {
+    background-color: transparent;
+    padding-top: 20px;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+
+    .navbar-toggler {
+        padding: 13px;
+        border: 0;
+        color: @white-color;
+    }
+
+    .navbar-brand {
+        margin-right: 0;
+        img {
+            width: 70%;
+        }
+    }
+
+    .navbar-nav {
+        .nav-item {
+            .nav-link {
+                font-size: 14px;
+                padding: 7px 15px !important;
+                color: @white-color;
+                font-family: @roboto-font;
+                border: 3px solid transparent;
+            }
+
+            #login {
+                padding: 8px 30px !important;
+                background-color: @dark-blue-color;
+                color: @light-blue-color;
+                border: 1px solid @light-blue-color;
+                border-radius: 25px;
+            }
+
+            #login:hover {
+                background: @light-blue-color;
+                color: @white-color !important;
+            }
+
+            .nav-link.active,
+            .nav-link:hover {
+                color: @white-color !important;
+                background: @light-blue-color !important;
+                border-radius: 17px;
+            }
+        }
+    }
+}
+
+/********************* MEDIA-QUERY *************************/
+@media (min-width: 300px) {
+    #mainNav.navbar-shrink {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: lighten(@dark-blue-color, 10%);
+    }
+}

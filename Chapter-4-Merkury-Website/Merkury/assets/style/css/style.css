@@ -1,0 +1,216 @@
+/****************** FONT ***********************/
+@font-face {
+  font-family: 'roboto-thin';
+  src: url('../font/roboto/Roboto-Thin.ttf');
+}
+@font-face {
+  font-family: 'roboto';
+  src: url('../font/roboto/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: 'roboto-medium';
+  src: url('../font/roboto/Roboto-Medium.ttf');
+}
+@font-face {
+  font-family: 'roboto-bold';
+  src: url('../font/roboto/Roboto-Bold.ttf');
+}
+/****************** VARIABLES ***********************/
+/****************** GENERAL RESET ***********************/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+ol,
+ul,
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+/****************** CUSTOM SETTINGS ***********************/
+html {
+  background-color: #0e1a35;
+  overflow-x: hidden;
+}
+body {
+  background-color: #fff;
+  overflow: hidden;
+}
+section {
+  padding: 50px 0;
+}
+p,
+ul,
+ol {
+  margin-bottom: 0.5em;
+}
+p a,
+h5 a {
+  font-weight: bold;
+  transition: all 0.5s ease-out;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  line-height: 1.5em;
+  margin-bottom: 1.5em;
+}
+/****************** NAVBAR ***********************/
+#mainNav {
+  background-color: transparent;
+  padding-top: 20px;
+  transition: padding-top 0.3s, padding-bottom 0.3s;
+}
+#mainNav .navbar-toggler {
+  padding: 13px;
+  border: 0;
+  color: #fff;
+}
+#mainNav .navbar-brand {
+  margin-right: 0;
+}
+#mainNav .navbar-brand img {
+  width: 70%;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-size: 14px;
+  padding: 7px 15px !important;
+  color: #fff;
+  font-family: 'roboto', Georgia, serif;
+  border: 3px solid transparent;
+}
+#mainNav .navbar-nav .nav-item #login {
+  padding: 8px 30px !important;
+  background-color: #0e1a35;
+  color: #5584ff;
+  border: 1px solid #5584ff;
+  border-radius: 25px;
+}
+#mainNav .navbar-nav .nav-item #login:hover {
+  background: #5584ff;
+  color: #fff !important;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active,
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #fff !important;
+  background: #5584ff !important;
+  border-radius: 17px;
+}
+/********************* MEDIA-QUERY *************************/
+@media (min-width: 300px) {
+  #mainNav.navbar-shrink {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #192e5d;
+  }
+}

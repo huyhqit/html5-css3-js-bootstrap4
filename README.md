@@ -157,6 +157,12 @@
 
 - Finish Section 25: 404 Start Code
 - Finish Section 26: Recap
+- Finish Section 27: Merkury Overview
+    - Overview how to make Merkury project
+- Finish Section 28: Prepare Files
+- Finish Section 29: Linking Files
+- Finish Section 30: Navbar Part 1
+- Finish Section 31: Navbar Part 2
 
 **Through**
 - Using `z-index`, `@keyframes`, `position` to make page.
@@ -165,3 +171,8 @@
 
 1. [Section 25](/Chapter-3-404-penguins-page#404-start-code)
 2. [Section 26](/Chapter-3-404-penguins-page#404-recap)
+3. [Section 27](/Chapter-4-merkury-website#merkury-overview)
+4. [Section 28](/Chapter-4-merkury-website#prepare-files)
+5. [Section 29](/Chapter-4-merkury-website#linking-files)
+6. [Section 30](/Chapter-4-merkury-website#navbar-part-1)
+7. [Section 31](/Chapter-4-merkury-website#navbar-part-2)
