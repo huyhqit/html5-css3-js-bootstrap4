@@ -150,3 +150,18 @@
 3. [Section 22](/Chapter-2-OpenCharity-Overview/README.md#repo)
 4. [Section 23](/Chapter-3-404-penguins-page#404-overview)
 5. [Section 24](/Chapter-3-404-penguins-page#404-prepare-file)
+
+**Day 7: 18/09/2018**
+
+**Today's progress**
+
+- Finish Section 25: 404 Start Code
+- Finish Section 26: Recap
+
+**Through**
+- Using `z-index`, `@keyframes`, `position` to make page.
+
+**Link(s) to work**
+
+1. [Section 25](/Chapter-3-404-penguins-page#404-start-code)
+2. [Section 26](/Chapter-3-404-penguins-page#404-recap)

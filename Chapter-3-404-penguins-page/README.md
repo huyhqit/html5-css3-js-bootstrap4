@@ -34,3 +34,39 @@
 **Bookmark**
 
 ![Image 404](./section23.PNG)
+
+<h1 id="section24">404 Start Code</h1>
+
+**Overview**
+
+- Make 404 page
+
+**Details**
+- CSS:
+    - `z-index`: 
+                - The `z-index` property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order.
+                - `z-index` only works on positioned elements (position:absolute, position:relative, or position:fixed).
+    -  `@keyframes` rule specifiles the animation code.
+    - The `position` property specifies the type of positioning method used for an element (static, relative, absolute, fixed, or sticky).
+    - CSS `transitions` allows you to change property values smoothly (from one value to another), over a given duration.
+
+**Bookmark**
+
+- [z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
+- [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
+- [Position](https://www.w3schools.com/cssref/pr_class_position.asp)
+- [Transition](https://www.w3schools.com/css/css3_transitions.asp)
+
+![Image 404](./section23.PNG)
+
+<h1 id="section24">404 Recap</h1>
+
+**Overview**
+
+- Recap code 404 page progress
+
+**Details**
+
+- I had tested the 404 page before in different browsers and it works just fine.
+
+**Bookmark**
