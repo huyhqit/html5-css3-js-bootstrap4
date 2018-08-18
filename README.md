@@ -156,23 +156,35 @@
 **Today's progress**
 
 - Finish Section 25: 404 Start Code
+    - Implement UI
+    - Style page
+    - Add animation
 - Finish Section 26: Recap
+    - A few other ways for 404 page
 - Finish Section 27: Merkury Overview
     - Overview how to make Merkury project
 - Finish Section 28: Prepare Files
+    - Apply Trello steps
 - Finish Section 29: Linking Files
+    - define variables for font and color in style.less
+    - use bootstrap 4, popper.js, jquery.js in project
 - Finish Section 30: Navbar Part 1
+    - Implement UI nav bar
+    - Make nav bar by template nav bar in bootstrap 4 component
 - Finish Section 31: Navbar Part 2
+    - Implement animation for UI navbar by jquery
 
 **Through**
-- Using `z-index`, `@keyframes`, `position` to make page.
+- Using `z-index`, `@keyframes`, `position` to this page.
+- The jQuery API is great
+- Make animation for apge by `@keyframes`
 
 **Link(s) to work**
 
 1. [Section 25](/Chapter-3-404-penguins-page#404-start-code)
 2. [Section 26](/Chapter-3-404-penguins-page#404-recap)
-3. [Section 27](/Chapter-4-merkury-website#merkury-overview)
-4. [Section 28](/Chapter-4-merkury-website#prepare-files)
-5. [Section 29](/Chapter-4-merkury-website#linking-files)
-6. [Section 30](/Chapter-4-merkury-website#navbar-part-1)
-7. [Section 31](/Chapter-4-merkury-website#navbar-part-2)
+3. [Section 27](/Chapter-4-Merkury-Website#merkury-overview)
+4. [Section 28](/Chapter-4-Merkury-Website#prepare-files)
+5. [Section 29](/Chapter-4-Merkury-Website#linking-files)
+6. [Section 30](/Chapter-4-Merkury-Website#navbar-part-1)
+7. [Section 31](/Chapter-4-Merkury-Website#navbar-part-2)
