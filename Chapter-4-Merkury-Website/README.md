@@ -200,4 +200,24 @@ None
 
 **Result**
 
-![Nav Section](./Merkury/section35.PNG)
+![Drag and drop section](./Merkury/section35.PNG)
+
+<h1 id="section36">Drag and Drop Section part 2</h1>
+
+**Overview**
+
+- Improved UI for Drag and Drops Section.
+- Integrate jQuery UI for this section
+
+**Details**
+
+- Improved UI for Drag and Drops Section.
+- Using jQuery UI crate action drag and drop for task
+
+**Bookmark**
+
+- Download jQuery UI [here](https://jqueryui.com/download/)
+
+**Result**
+
+![Drag and drop section](./Merkury/section36.PNG)

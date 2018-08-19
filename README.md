@@ -201,9 +201,13 @@
     - Implement UI for features section
 - Finish Section 35: Drag and Drop Section part 1
     - Implement IO for drag and drop section
+- Finish Section 36: Drag and Drop Section part 2
+    - Improved UI for drag and drop section.
+    - Using jQuery UI create action for task.
 
 **Throught**
 - `@keyframes` make animation easy
+- jQuery ui makes dragging and dropping simple.
 
 **Link(s) to work**
 
@@ -211,3 +215,4 @@
 2. [Section 33](/Chapter-4-Merkury-Website#services-section)
 3. [Section 34](/Chapter-4-Merkury-Website#features-section)
 4. [Section 35](/Chapter-4-Merkury-Website#drag-and-drop-section-part-1)
+5. [Section 36](/Chapter-4-Merkury-Website#drag-and-drop-section-part-2)

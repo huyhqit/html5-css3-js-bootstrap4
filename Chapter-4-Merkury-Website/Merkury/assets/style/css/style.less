@@ -289,6 +289,114 @@ header {
         }
     }
 }
+/********************* DRAG & DROP *************************/
+#drag-drop {
+    background-image: url('../../img/header-img.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    .container {
+        padding: 50px 25px;
+        background-image: url(../../img/graph.png);
+        background-repeat: repeat-x;
+        animation: animatedBackground 10s linear infinite;
+        @keyframes animatedBackground {
+            from {
+                background-position: 0;
+            }
+            to {
+                background-position: 100%;
+            }
+        }
+        .row {
+
+            .col-md-4 {
+                h3 {
+                    font-size: 25px;
+                    color: @white-color;
+                    span {
+                        color: darken(@white-color, 40%);
+                    }
+                    i {
+                        float: right;
+                    }
+                }
+                .card {
+                    border-radius: 0;
+                    margin-bottom: 20px;
+                    .card-body {
+                        padding: 12px;
+                        span {
+                            float: left;
+                            margin-right: 15px;
+                            border-radius: 50%;
+                            padding: 5px 10px;
+                            color: @white-color;
+                            background: @light-blue-color;
+                        }
+                        .dropdown {
+                            float: right;
+                            .btn-secondary {
+                                background: transparent;
+                                color: @light-gray-color;
+                                border: none;
+                            }
+                            .dropdown-menu {
+                                a:hover {
+                                    cursor: pointer;
+                                    background: @light-blue-color;
+                                    color: @white-color;
+                                }
+                            }
+                        }
+                        .card-title {
+                            margin-bottom: 6px;
+                        }
+                        .card-text {
+                            margin-left: 42px;
+                        }
+                    }
+                    
+                }
+            }
+            #first-col {
+                #draggable {
+                    cursor: move;
+                }
+            } // END FIRST COL
+            #second-col {
+                #droppable {
+                    padding: 8px;
+                    border: 1px dashed @light-gray-color;
+                    background: transparent;
+                    color: darken(@white-color, 40%);
+                    text-align: center;
+                }
+            } // END SECOND COL
+            #third-col {
+                margin-top: 65px;
+                h2 {
+                    color: @white-color;
+                    font-size: 30px;
+                    font-family: @roboto-thin-font;
+                    margin-bottom: 20px;
+                }
+                p {
+                    font-size: 17px;
+                    color: darken(@white-color, 40%);
+                    font-family: @roboto-font;
+                    margin-bottom: 20px;
+                }
+                a {
+                    img {
+                        float: left;
+                        margin-right: 10px;
+                    }
+                }
+            } // END THIRD COL
+        } // END ROW
+    } // END CONTAINER
+}
 
 /********************* MEDIA-QUERY *************************/
 @media (min-width: 300px) {

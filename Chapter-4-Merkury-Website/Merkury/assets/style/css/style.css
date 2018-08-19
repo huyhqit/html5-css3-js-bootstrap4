@@ -336,6 +336,100 @@ header .container .intro-text a:hover {
 #features .container .row .col-md-5 span img {
   margin-right: 10px;
 }
+/********************* DRAG & DROP *************************/
+#drag-drop {
+  background-image: url('../../img/header-img.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#drag-drop .container {
+  padding: 50px 25px;
+  background-image: url(../../img/graph.png);
+  background-repeat: repeat-x;
+  animation: animatedBackground 10s linear infinite;
+}
+@keyframes animatedBackground {
+  from {
+    background-position: 0;
+  }
+  to {
+    background-position: 100%;
+  }
+}
+#drag-drop .container .row .col-md-4 h3 {
+  font-size: 25px;
+  color: #fff;
+}
+#drag-drop .container .row .col-md-4 h3 span {
+  color: #999999;
+}
+#drag-drop .container .row .col-md-4 h3 i {
+  float: right;
+}
+#drag-drop .container .row .col-md-4 .card {
+  border-radius: 0;
+  margin-bottom: 20px;
+}
+#drag-drop .container .row .col-md-4 .card .card-body {
+  padding: 12px;
+}
+#drag-drop .container .row .col-md-4 .card .card-body span {
+  float: left;
+  margin-right: 15px;
+  border-radius: 50%;
+  padding: 5px 10px;
+  color: #fff;
+  background: #5584ff;
+}
+#drag-drop .container .row .col-md-4 .card .card-body .dropdown {
+  float: right;
+}
+#drag-drop .container .row .col-md-4 .card .card-body .dropdown .btn-secondary {
+  background: transparent;
+  color: #8492af;
+  border: none;
+}
+#drag-drop .container .row .col-md-4 .card .card-body .dropdown .dropdown-menu a:hover {
+  cursor: pointer;
+  background: #5584ff;
+  color: #fff;
+}
+#drag-drop .container .row .col-md-4 .card .card-body .card-title {
+  margin-bottom: 6px;
+}
+#drag-drop .container .row .col-md-4 .card .card-body .card-text {
+  margin-left: 42px;
+}
+#drag-drop .container .row #first-col #draggable {
+  cursor: move;
+}
+#drag-drop .container .row #second-col #droppable {
+  padding: 8px;
+  border: 1px dashed #8492af;
+  background: transparent;
+  color: #999999;
+  text-align: center;
+}
+#drag-drop .container .row #third-col {
+  margin-top: 65px;
+}
+#drag-drop .container .row #third-col h2 {
+  color: #fff;
+  font-size: 30px;
+  font-family: 'roboto-thin', Arial, sans-serif;
+  margin-bottom: 20px;
+}
+#drag-drop .container .row #third-col p {
+  font-size: 17px;
+  color: #999999;
+  font-family: 'roboto', Georgia, serif;
+  margin-bottom: 20px;
+}
+#drag-drop .container .row #third-col a img {
+  float: left;
+  margin-right: 10px;
+}
 /********************* MEDIA-QUERY *************************/
 @media (min-width: 300px) {
   #mainNav.navbar-shrink {

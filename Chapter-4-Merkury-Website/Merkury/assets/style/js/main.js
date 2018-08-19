@@ -21,4 +21,17 @@ $(window).scroll(function() {
     }
 });
 
+/**************** DRAG=DROP ****************/
+$(function() {
+    $('#draggable').draggable({
+        grid: [1,0]
+    });
+    $('#droppable').droppable({
+        drop: function() {
+            $('.card').css("border","transparent");
+            $('#droppable').find(".card-title").html('');
+        }
+    });
+});
+
 });
