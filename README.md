@@ -207,3 +207,4 @@
 
 1. [Section 32](/Chapter-4-Merkury-Website#header)
 2. [Section 33](/Chapter-4-Merkury-Website#services-section)
+3. [Section 34](/Chapter-4-Merkury-Website#features-section)
