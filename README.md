@@ -188,3 +188,22 @@
 5. [Section 29](/Chapter-4-Merkury-Website#linking-files)
 6. [Section 30](/Chapter-4-Merkury-Website#navbar-part-1)
 7. [Section 31](/Chapter-4-Merkury-Website#navbar-part-2)
+
+**Day 8: 19/08/2017**
+
+**Today's progress**
+
+- Finish Section 32: Header
+    - Implement UI for header
+- Finish Section 33: Services Section
+    - Implement UI for services section
+- Finish Section 34: Features Section
+    - Implement UI for features section
+
+**Throught**
+- `@keyframes` make animation easy
+
+**Link(s) to work**
+
+1. [Section 32](/Chapter-4-Merkury-Website#header)
+2. [Section 33](/Chapter-4-Merkury-Website#services-section)

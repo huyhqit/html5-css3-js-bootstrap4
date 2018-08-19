@@ -14,7 +14,7 @@ $('body').scrollspy({
 
 // On scroll down if the offset is higher than 50 pixels add navbar shrink class class else remove that class
 $(window).scroll(function() {
-    if(('#mainNav').offset().top > 50) {
+    if($('#mainNav').offset().top > 50) {
         $('#mainNav').addClass('navbar-shrink');
     } else {
         $('#mainNav').removeClass('navbar-shrink');

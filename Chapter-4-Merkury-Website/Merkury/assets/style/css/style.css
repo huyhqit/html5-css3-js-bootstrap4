@@ -137,7 +137,7 @@ a:hover {
 }
 /****************** CUSTOM SETTINGS ***********************/
 html {
-  background-color: #0e1a35;
+  background-color: #fff;
   overflow-x: hidden;
 }
 body {
@@ -205,6 +205,136 @@ h5 {
   color: #fff !important;
   background: #5584ff !important;
   border-radius: 17px;
+}
+/********************* HEADER *************************/
+header {
+  color: #fff;
+  background-image: url('../../img/header-img.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+header .container {
+  background-image: url('../../img/graph.png');
+  background-repeat: repeat-x;
+  animation: animatedBackground 10s linear infinite;
+}
+@keyframes animatedBackground {
+  form {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 100% 0;
+  }
+}
+header .container .intro-text {
+  padding-top: 150px;
+}
+header .container .intro-text h1 {
+  font-size: 40px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: 'roboto-thin', Arial, sans-serif;
+}
+header .container .intro-text h3 {
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: 'roboto', Georgia, serif;
+  font-weight: 400;
+  color: #bfbfbf;
+}
+header .container .intro-text a {
+  padding: 8px 34px;
+  font-family: 'roboto', Georgia, serif;
+  background: #5584ff;
+  color: #fff;
+  border-radius: 25px;
+}
+header .container .intro-text a:hover {
+  background: transparent;
+  border: 1px solid #5584ff;
+}
+/********************* MEDIA-QUERY *************************/
+#services {
+  padding: 100px 0 50px 0;
+  background-color: #fff;
+  margin-top: -120px;
+}
+#services .container {
+  margin-top: 100px;
+}
+#services .container .row .col-md-4 img {
+  margin-bottom: 30px;
+  height: 85px;
+}
+#services .container .row .col-md-4 img:hover {
+  transform: scale(1.1);
+  transition: all 0.2s ease-out;
+}
+#services .container .row .col-md-4 #service1::after,
+#services .container .row .col-md-4 #service2::after {
+  content: '';
+  position: absolute;
+  right: -60px;
+  top: 50px;
+  width: 10vw;
+  height: 1px;
+  background: #e1e4eb;
+}
+#services .container .row .col-md-4 h4 {
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-family: 'roboto', Georgia, serif;
+}
+#services .container .row .col-md-4 p {
+  font-family: 'roboto', Georgia, serif;
+  color: #b2bbcd;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+#services .container .row .col-md-4 a {
+  color: #000000;
+  border: 1px solid #cccccc;
+  width: 70%;
+  margin-bottom: 20px;
+  font-family: 'roboto', Georgia, serif;
+  border-radius: 25px;
+}
+#services .container .row .col-md-4 a:hover {
+  background-color: #cccccc;
+}
+/********************* FEATURES *************************/
+#features {
+  background: #fff;
+}
+#features .container .row .col-md-5 {
+  margin-top: 100px;
+}
+#features .container .row .col-md-5 h2 {
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: 'roboto', Georgia, serif;
+  font-weight: 400;
+  color: #000000;
+}
+#features .container .row .col-md-5 p {
+  font-family: 'roboto', Georgia, serif;
+  color: #a3adc3;
+  line-height: 1.5;
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+#features .container .row .col-md-5 span {
+  display: flex;
+  color: #5584ff;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+#features .container .row .col-md-5 span img {
+  margin-right: 10px;
 }
 /********************* MEDIA-QUERY *************************/
 @media (min-width: 300px) {

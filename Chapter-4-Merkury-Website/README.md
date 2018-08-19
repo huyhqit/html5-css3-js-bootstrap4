@@ -106,3 +106,63 @@ None
 **Result**
 
 ![Nav Section](./Merkury/section31.PNG)
+
+<h1 id="section32">Header</h1>
+
+**Overview**
+
+- Implement UI for Header section
+
+**Details**
+- The blue background and the grid image in one group
+- Behind is the graphic image.
+- Make a keyframes and animation on it
+- The button `Get started`. Click on this button go to down to the services section right here.
+- To make this responsive image float just like the images of class in the bootstrap
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Nav Section](./Merkury/section32.PNG)
+
+<h1 id="section33">Services Section</h1>
+
+**Overview**
+
+- Implement UI for services section
+
+**Details**
+
+- The section need a row.
+- Inside a row have three column and four deaths and here is a really thin separator.
+- Inside a column have an image a title and some description and a bottom.
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Nav Section](./Merkury/section33.PNG)
+
+<h1 id="section34">Feature Section</h1>
+
+**Overview**
+
+- Implement UI for feature section
+
+**Details**
+
+-  Have two column:
+    -  There is a image.
+    -  There's a group of elements.
+**Bookmark**
+
+None
+
+**Result**
+
+![Nav Section](./Merkury/section34.PNG)

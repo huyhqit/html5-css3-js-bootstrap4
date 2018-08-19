@@ -70,7 +70,7 @@ a:hover {
 }
 /****************** CUSTOM SETTINGS ***********************/
 html {
-    background-color: @dark-blue-color;
+    background-color: @white-color;
     overflow-x: hidden;
 }
 
@@ -144,6 +144,147 @@ h1, h2, h3, h4, h5 {
                 color: @white-color !important;
                 background: @light-blue-color !important;
                 border-radius: 17px;
+            }
+        }
+    }
+}
+/********************* HEADER *************************/
+header {
+    color: @white-color;
+    background-image: url('../../img/header-img.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    .container {
+        background-image: url('../../img/graph.png');
+        background-repeat: repeat-x;
+        animation: animatedBackground 10s linear infinite;
+
+        @keyframes animatedBackground {
+            form {
+                background-position: 0 0;
+            }
+            to {
+                background-position: 100% 0;
+            }
+        }
+        .intro-text {
+            padding-top: 150px;
+            h1 {
+                font-size: 40px;
+                line-height: 22px;
+                margin-bottom: 25px;
+                font-family: @roboto-thin-font;
+            }
+            h3 {
+                font-size: 30px;
+                line-height: 50px;
+                margin-bottom:25px;
+                font-family: @roboto-font;
+                font-weight: 400;
+                color: darken(@white-color, 25%);
+            }
+            a {
+                padding: 8px 34px;
+                font-family: @roboto-font;
+                background: @light-blue-color;
+                color: @white-color;
+                border-radius: 25px;
+            }
+            a:hover {
+                background: transparent;
+                border: 1px solid @light-blue-color;
+            }
+        }
+    }
+}
+/********************* MEDIA-QUERY *************************/
+#services {
+    padding: 100px 0 50px 0;
+    background-color: @white-color;
+    margin-top: -120px;
+    .container {
+        margin-top: 100px;
+        .row {
+            .col-md-4 {
+                img {
+                    margin-bottom: 30px;
+                    height: 85px;
+                }
+                img:hover {
+                    transform: scale(1.1);
+                    transition: all 0.2s ease-out;
+                }
+
+                #service1::after, #service2::after {
+                    content: '';
+                    position: absolute;
+                    right: -60px;
+                    top: 50px;
+                    width: 10vw;
+                    height: 1px;
+                    background: lighten(@light-gray-color, 30%);
+                }
+
+                h4 {
+                    font-weight: 700;
+                    margin-bottom: 10px;
+                    font-family: @roboto-font;
+                }
+                p {
+                    font-family: @roboto-font;
+                    color: lighten(@light-gray-color, 15%);
+                    line-height: 1.5;
+                    margin-bottom: 20px;
+                }
+                a {
+                    color: @black-color;
+                    border: 1px solid darken(@white-color, 20px);
+                    width: 70%;
+                    margin-bottom: 20px;
+                    font-family: @roboto-font;
+                    border-radius: 25px;
+                }
+                a:hover {
+                    background-color: darken(@white-color, 20%);
+
+                }
+            }
+        }
+    }
+}
+/********************* FEATURES *************************/
+#features {
+    background: @white-color;
+    .container {
+        .row {
+            .col-md-5 {
+                margin-top: 100px;
+                h2 {
+                    font-size: 30px;
+                    letter-spacing: 1px;
+                    line-height: 50px;
+                    margin-bottom: 25px;
+                    font-family: @roboto-font;
+                    font-weight: 400;
+                    color: @black-color;
+                }
+                p {
+                    font-family: @roboto-font;
+                    color: lighten(@light-gray-color, 10%);
+                    line-height: 1.5;
+                    font-size: 18px;
+                    margin-bottom: 50px;
+                }
+                span {
+                    display: flex;
+                    color: @light-blue-color;
+                    margin-bottom: 20px;
+                    font-size: 18px;
+                    img {
+                        margin-right: 10px;
+                    }
+                }
             }
         }
     }
