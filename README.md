@@ -199,6 +199,8 @@
     - Implement UI for services section
 - Finish Section 34: Features Section
     - Implement UI for features section
+- Finish Section 35: Drag and Drop Section part 1
+    - Implement IO for drag and drop section
 
 **Throught**
 - `@keyframes` make animation easy
@@ -208,3 +210,4 @@
 1. [Section 32](/Chapter-4-Merkury-Website#header)
 2. [Section 33](/Chapter-4-Merkury-Website#services-section)
 3. [Section 34](/Chapter-4-Merkury-Website#features-section)
+4. [Section 35](/Chapter-4-Merkury-Website#drag-and-drop-section-part-1)

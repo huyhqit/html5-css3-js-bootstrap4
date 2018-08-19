@@ -148,7 +148,7 @@ None
 
 ![Nav Section](./Merkury/section33.PNG)
 
-<h1 id="section34">Feature Section</h1>
+<h1 id="section34">Features Section</h1>
 
 **Overview**
 
@@ -159,6 +159,7 @@ None
 -  Have two column:
     -  There is a image.
     -  There's a group of elements.
+
 **Bookmark**
 
 None
@@ -166,3 +167,37 @@ None
 **Result**
 
 ![Nav Section](./Merkury/section34.PNG)
+
+<h1 id="section35">Drag and Drop Section Part 1</h1>
+
+**Overview**
+
+- Implement UI for Drag & Drop section
+- The Drag & Drop feature allow user keep track task like Trello.com
+
+**Details**
+
+-  Have Three column:
+    -  The first column is `In Progress` have three cards
+        -  Inside a card have:
+            -  Icon card
+            -  Name card
+            -  Dropdown include three actions
+            -  Stauts: Time left
+    -  Next column is `Completed` have two cards and one box
+        - Inside a card have:
+            -  Icon card
+            -  Name card
+            -  Dropdown include three actions
+            -  Status: Completed
+    -  The last column is `Drag & Drop`
+-  Using column bootstrap. 
+-  Card and dropdown in bootstrap component.
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Nav Section](./Merkury/section35.PNG)
