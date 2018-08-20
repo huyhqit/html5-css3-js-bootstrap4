@@ -221,3 +221,65 @@ None
 **Result**
 
 ![Drag and drop section](./Merkury/section36.PNG)
+
+<h1 id="section37">Template Section</h1>
+
+**Overview**
+
+- Implement UI for Template section
+
+**Details**
+
+- The idea from the section is the dashboard template image is hidden and when users are hovers under section two lines appeared and reached the dashboard image and then the dashboard image appears setup an image.
+- After that an infinite float animation happens to the dashboard image.
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Template section](./Merkury/section37.PNG)
+
+<h1 id="section38">Pricing Section</h1>
+
+**Overview**
+
+- Implement UI for Pricing section
+
+**Details**
+
+- Section have three column about Pricing model
+- Inside column have a card
+- Details:
+    - Name model
+    - Price
+    - Features
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Pricing section](./Merkury/section38.PNG)
+
+<h1 id="section39">Join Section and Footer</h1>
+
+**Overview**
+
+- Implement UI for Join section and Footer
+
+**Details**
+
+- Join section have two paragraphs
+- And a botton between two line.
+- Footer have a copyright area text some links and some social icons.
+
+**Bookmark**
+
+None
+
+**Result**
+
+![Pricing section](./Merkury/section39.PNG)

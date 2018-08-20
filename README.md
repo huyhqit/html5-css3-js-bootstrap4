@@ -189,7 +189,7 @@
 6. [Section 30](/Chapter-4-Merkury-Website#navbar-part-1)
 7. [Section 31](/Chapter-4-Merkury-Website#navbar-part-2)
 
-**Day 8: 19/08/2017**
+**Day 8: 19/08/2018**
 
 **Today's progress**
 
@@ -216,3 +216,23 @@
 3. [Section 34](/Chapter-4-Merkury-Website#features-section)
 4. [Section 35](/Chapter-4-Merkury-Website#drag-and-drop-section-part-1)
 5. [Section 36](/Chapter-4-Merkury-Website#drag-and-drop-section-part-2)
+
+**Day 9: 20/08/2018**
+
+**Today's Progress**
+- Finish Section 37: Template Section
+    - Implement UI for Template section
+- Finish Section 38: Pricing Section
+    - Implement UI for Pricing section
+- Finish Section 39: Join - Section + Footer
+    - Implement UI for Join section and Footer
+
+**Throught**
+
+- Remind of `::before` `display: inline` `display: flex`
+
+**Link(s) to work**
+
+1. [Section 37](/Chapter-4-Merkury-Website#template-section)
+2. [Section 38](/Chapter-4-Merkury-Website#pricing-section)
+3. [Section 39](/Chapter-4-Merkury-Website#join-section-and-footer)
