@@ -250,6 +250,10 @@
     - W3C markup validation server.
     - Website speed test.
     - Deloy website in biballoon.com
+- Finish Section 42: Recap
+    - Summarizes the code Merkury project process.
+- Finish Section 43: Important Tips
+    - Have three directions after learning this course
 
 **Throught**
 - CSS effect is quite interesting

@@ -332,3 +332,49 @@ None
 - [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
 - [Go to Merkury site](https://merkury-frontend.netlify.com)
 - ![Ping dom test result](./Merkury/section41.PNG)
+
+<h1 id="section42">Recap</h1>
+
+**Overview**
+
+- Summarizes the code Merkury project process.
+
+**Details**
+
+- Export images and getting colors and fonts on our website
+- Prepare file the project files and folders using the Trello to do list.
+- I have leared how can our code in less. So it would be easier to read and understand.
+- Can use bootstrap 4, it's component in website
+- Adding animations to website by jQuery
+- Have two plugins is jQuery UI and ScrollReveal
+- I can organize our project with to do list on Trello
+- Responsive on our website
+- Tested the website in most of the devices
+- Increased the website performance by optimizing the images and run the markup and speed test
+- Fix some markup errors and warnings and tested the website on the old and the modern browsers.
+
+**Bookmark**
+
+- [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
+- [Go to Merkury site](https://merkury-frontend.netlify.com)
+
+<h1 id="section42">Important Tips</h1>
+
+**Overview**
+
+- After this course, their many directions but the best three directions.
+
+**Details**
+
+- Three directions are:
+    - Learn `CMS` which is content managemant system.
+    - Start learning back-end like PHP with laravel framwork, Python with jungle framwork, etc.
+    - Continue improving your javascript skill by learning single page application like Angular, ReactJs, VueJs.
+- Email this course instructor:
+    - mero.hegazi77@gmail.com
+
+**Bookmark**
+
+- [CMS](https://www.quora.com/What-is-the-best-way-to-learn-CMS)
+- [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
+- [Go to Merkury site](https://merkury-frontend.netlify.com)
