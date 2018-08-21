@@ -18,9 +18,9 @@
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:**
-1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#session1)
-2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#session2)
-3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#session3)
+1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#why-this-course-and-course-plan)
+2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#editor)
+3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#photoshop)
 
 **Day 2: 13/08/2018**
 
@@ -35,7 +35,7 @@
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
 **Link(s) to work:**
-1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#session4)
+1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#bootstrap-4)
 
 **Day 3: 14/08/2018**
 
@@ -262,3 +262,5 @@
 **Link(s) to work**
 1. [Section 40](/Chapter-4-Merkury-Website#enhancements)
 2. [Section 41](/Chapter-4-Merkury-Website#testing)
+3. [Section 42](/Chapter-4-Merkury-Website#enhancements)
+4. [Section 41](/Chapter-4-Merkury-Website#important-tips)
