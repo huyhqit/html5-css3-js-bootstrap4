@@ -283,3 +283,52 @@ None
 **Result**
 
 ![Pricing section](./Merkury/section39.PNG)
+
+<h1 id="section40">Enhancements</h1>
+
+**Overview**
+
+- Check reponsive and add some media queries
+- Add Smooth Scroll
+- Animation with SrollReveal
+
+**Details**
+
+- Bug reponsive when `width <= 768px` and `width between 768px and 991px`
+- Add smooth scroll help coating smooth
+- ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.
+
+**Bookmark**
+- [Smooth Scroll](https://css-tricks.com/snippets/jquery/smooth-scrolling/#article-header-id-1)
+- [ScrollReveal](https://github.com/scrollreveal/scrollreveal)
+
+**Result**
+
+- [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
+
+<h1 id="section41">Testing</h1>
+
+**Overview**
+
+- Compressing images
+- Cross browser testing
+- Static sites host
+- W3C markup validation service
+- Website speed test
+
+**Details**
+
+- Using optimizilla to optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+- Cross browser is testing in chrome, firefox, IE.
+- Upload your website files to static sites host bitballoon or other for running tests.
+- This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
+- Using pingdom to speed test website.
+
+**Bookmark**
+- [Pingdom test](https://tools.pingdom.com/#!/9UB6f/https://hopeful-booth-27591f.netlify.com/)
+
+**Result**
+
+- [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
+- [Go to Merkury site](https://merkury-frontend.netlify.com)
+- ![Ping dom test result](./Merkury/section41.PNG)

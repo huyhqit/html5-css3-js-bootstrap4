@@ -283,6 +283,8 @@ header {
                     font-size: 18px;
                     img {
                         margin-right: 10px;
+                        width: 25px;
+                        height: 25px;
                     }
                 }
             }
@@ -397,7 +399,7 @@ header {
         } // END ROW
     } // END CONTAINER
 }
-/********************* MEDIA-QUERY *************************/
+/********************* TEMPLATE *************************/
 #template {
     padding: 100px 0;
     background: darken(@white-color, 5%);
@@ -470,7 +472,7 @@ header {
         }
     }
 }
-/********************* MEDIA-QUERY *************************/
+/********************* PRICING *************************/
 #pricing {
     background: darken(@white-color, 5%);
     #title {
@@ -478,46 +480,80 @@ header {
         font-size: 32px;
         font-weight: 600px;
     }
-    .row {
-        .col-md-4 {
-            .card {
-                border: 0;
-                border-radius: 0;
-                box-shadow: 0px -1px 35px 9px darken(@white-color, 10%);
-                padding: 30px 0;
-                width: 80%;
-                margin: 0 auto;
-                margin-bottom: 50px;
-                .card-body {
-                    padding: 20px 0;
-                    .card-title {
-                        margin-bottom: 15px;
-                        font-family: @roboto-medium-font;
-                        font-size: 20px;
-                    }
-                    h2 {
-                        margin-bottom: 30px;
-                        font-family: @roboto-medium-font;
-                        font-weight: 700;
-                        .dollar-sign {
-                            color: @black-color !important;
-                            font-size: 19px;
-                            font-family: @roboto-bold-font;
+    .container {
+        p {
+            color: lighten(@light-gray-color, 10%);
+            margin-bottom: 50px;
+            line-height: 1.5;
+        }
+        a {
+            padding: 8px 40px;
+            background: @light-blue-color;
+            color: @white-color;
+            border-radius: 25px;
+            margin-bottom: 30px;
+            position: relative;
+        }
+        a:hover {
+            background: lighten(@dark-blue-color, 20%);
+        }
+        a::before, a::after {
+            content: '';
+            position: absolute;
+            width: 20vw;
+            height: 1px;
+            background: lighten(@light-gray-color, 30%);        
+        }
+        a::before {
+            top: 20px;
+            left: 200px;
+        }
+    
+        a::after {
+            top: 20px;
+            right: 200px;
+        }
+        .row {
+            .col-md-4 {
+                .card {
+                    border: 0;
+                    border-radius: 0;
+                    box-shadow: 0px -1px 35px 9px darken(@white-color, 10%);
+                    padding: 30px 0;
+                    width: 80%;
+                    margin: 0 auto;
+                    margin-bottom: 50px;
+                    .card-body {
+                        padding: 20px 0;
+                        .card-title {
+                            margin-bottom: 15px;
+                            font-family: @roboto-medium-font;
+                            font-size: 20px;
                         }
-                        span {
-                            color: lighten(@light-gray-color, 20%) !important;
-                            font-size: 19px;
+                        h2 {
+                            margin-bottom: 30px;
+                            font-family: @roboto-medium-font;
+                            font-weight: 700;
+                            .dollar-sign {
+                                color: @black-color !important;
+                                font-size: 19px;
+                                font-family: @roboto-bold-font;
+                            }
+                            span {
+                                color: lighten(@light-gray-color, 20%) !important;
+                                font-size: 19px;
+                            }
                         }
-                    }
-                    .details {
-                        padding-bottom: 10px;
-                        img {
-                            width: 15px;
-                            margin-right: 10px;
-                        }
-                        p {
-                            display: inline;
-                            color: lighten(@light-gray-color, 10%);
+                        .details {
+                            padding-bottom: 10px;
+                            img {
+                                width: 15px;
+                                margin-right: 10px;
+                            }
+                            p {
+                                display: inline;
+                                color: lighten(@light-gray-color, 10%);
+                            }
                         }
                     }
                 }
@@ -525,44 +561,7 @@ header {
         }
     }
 }
-/********************* MEDIA-QUERY *************************/
-#join {
-    background: darken(@white-color, 5%);
-    padding: 0;
-    p {
-        color: lighten(@light-gray-color, 20%);
-        margin-bottom: 50px;
-        line-height: 1.5;
-    }
-    a {
-        padding: 8px 40px;
-        background: @light-blue-color;
-        color: @white-color;
-        border-radius: 25px;
-        margin-bottom: 30px;
-        position: relative;
-    }
-    a:hover {
-        background: lighten(@dark-blue-color, 20%);
-    }
-    a::before, a::after {
-        content: '';
-        position: absolute;
-        width: 20vw;
-        height: 1px;
-        background: lighten(@light-gray-color, 30%);        
-    }
-    a::before {
-        top: 20px;
-        left: 200px;
-    }
-
-    a::after {
-        top: 20px;
-        right: 200px;
-    }
-}
-/********************* MEDIA-QUERY *************************/
+/********************* FOOTER *************************/
 footer {
     padding: 30px;
     background: @dark-blue-color;
@@ -591,5 +590,47 @@ footer {
         padding-top: 5px;
         padding-bottom: 5px;
         background-color: lighten(@dark-blue-color, 10%);
+    }
+}
+
+@media (max-width: 768px) {
+    #mainNav {
+        background-color: @dark-blue-color;
+    }
+    #mainNav, .navbar-toggler {
+        padding: 5px;
+    }
+    header .container .intro-text h1 {
+        font-size: 30px;
+        line-height: 1.5;
+    }
+    #service, #template {
+        padding-bottom: 0;
+    }
+    #features {
+        padding-top: 0;
+    }
+    #service1::after, #service2::after {
+        display: none !important;
+    }
+    #drag-drop .container .row h3 i {
+        display: none !important;
+    }
+    #template .container .row .col-md-6 {
+        margin: 25px 0;
+    }
+    footer {
+        height: 18px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    #template .container:hover #right-side::before, 
+    #template .container:hover #left-side::before {
+        width: 33vw !important;
+        top: 35px;
+    }
+    #pricing .row .col-md-4 .card {
+        width: 100% !important;
     }
 }

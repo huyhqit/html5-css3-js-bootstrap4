@@ -236,3 +236,25 @@
 1. [Section 37](/Chapter-4-Merkury-Website#template-section)
 2. [Section 38](/Chapter-4-Merkury-Website#pricing-section)
 3. [Section 39](/Chapter-4-Merkury-Website#join-section-and-footer)
+
+**Day 10: 21/08/2018**
+
+**Today's progress**
+- Finish Section 40: Enhancements
+    - Fix bug UI in small devices
+    - Effects when crolling pages
+- Finish Section 41: Testing
+    - Compressing images.
+    - Cross browser testing.
+    - static sites host.
+    - W3C markup validation server.
+    - Website speed test.
+    - Deloy website in biballoon.com
+
+**Throught**
+- CSS effect is quite interesting
+- I was test build and deploy, directly from my GitLab repository.
+
+**Link(s) to work**
+1. [Section 40](/Chapter-4-Merkury-Website#enhancements)
+2. [Section 41](/Chapter-4-Merkury-Website#testing)
