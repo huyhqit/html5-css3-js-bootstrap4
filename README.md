@@ -264,3 +264,20 @@
 2. [Section 41](/Chapter-4-Merkury-Website#testing)
 3. [Section 42](/Chapter-4-Merkury-Website#enhancements)
 4. [Section 41](/Chapter-4-Merkury-Website#important-tips)
+
+**Day 11: 26/08/2018**
+
+**Today's progress**
+- Folder Structure include:
+    - assets: 
+        - img
+        - font 
+    - styles
+    - script
+- Finish html before code css.
+- Using extension 'pixelperfect' or code to check distance elements.
+  
+**Throught**
+- HTML CSS is not as simple as i throught.
+
+**Link(s) to work**
