@@ -281,3 +281,14 @@
 - HTML CSS is not as simple as i throught.
 
 **Link(s) to work**
+
+**Day 12: 27/08/2018**
+
+**Today's progress**
+- Create folder structure for project
+- Learn more about the functionality of each folder
+
+**Throught**
+- Should detail the tasks of each file in each folder
+
+**Link(s) to work**
