@@ -35,3 +35,30 @@
 
 - [swig](https://github.com/paularmstrong/swig)
 - [bower](https://bower.io/)
+
+<h1>Section 2</h1>
+
+**Overview**
+- Naming convention for Class and Id 
+- When to use margin or padding
+- Some rules work when covert PSD to HTML CSS
+
+**Details**
+
+- Naming convention
+    - Class: (-) Semantic
+    - Id: Quick trace, JS
+        - (_), using double underscore (__) when next level element
+        - example: section_1__text
+
+- Using margin between two elements of the same level
+- Padding between container and content
+- Some rules:
+    - Mapping 1:1 between PSD and HTML, CSS
+    - Make from top to bottom
+    - No resize PSD
+    - Not ebbreviated
+
+**Bookmark**
+
+- None

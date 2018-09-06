@@ -292,4 +292,18 @@
 - Should detail the tasks of each file in each folder
 
 **Link(s) to work**
-- [Section 1](./important/README.md#section-1)
+- [Day 1](./important/README.md#section-1)
+
+**Day 13: 6/09/2018**
+
+**Today's progress**
+- Apply pixelpefect to merkury page
+- Learn more about HTML CSS
+
+**Throught**
+- Understand the use of margin and padding in CSS
+- Not confuse class name
+- The order of restricting the use of z-index tags
+
+**Link(s) to work**
+- [Day 2](./important/README.md#section-2)
