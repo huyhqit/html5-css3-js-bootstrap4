@@ -307,3 +307,35 @@
 
 **Link(s) to work**
 - [Day 2](./important/README.md#section-2)
+
+**Day 14: 12/09/2018**
+
+**Today's progress**
+- Visual regression test
+- Production build
+
+**Throught**
+- Visual regression test:
+    - Apply regression test and its importance in frontend development
+    - [Jest](https://jestjs.io/) to test all Javascript
+    - [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+    - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+    - [PhantomJS](http://phantomjs.org/)
+    - After the test, if there is a difference, there are two options:
+        - Reject code if too much deviation from the template
+        - Accepted to meet according to code logic
+- Production build
+    - Have two enviroment:
+        - Staging:
+            - Dev and localhost:
+                - Fast to build
+                - Debugge able 
+
+        - Production: 
+
+                - Fast to run
+                - Because: minify HTML, CSS, JS and obfucate JS
+                - CSS: Critical/ above the fold, remove used CSS
+
+**Link(s) to work**
+- none
