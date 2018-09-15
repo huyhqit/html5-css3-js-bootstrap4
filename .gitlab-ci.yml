@@ -1,5 +1,7 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
+image: 
+- node:8.9
+- python:3.6-alpine
 
 # add 'node_modules' to cache for speeding up builds
 cache:
@@ -28,3 +30,17 @@ gitbook:
     - build/gitbook  # build to gitbook path
   only:
   - master # this job will affect only the 'master' branch
+
+readthdocs:
+  stage: readthedocs
+  script:
+  - pip install sphinx
+  - pip install sphinx_rtd_theme
+  - pip install recommonmark
+  - sphinx-build -d _build/doctrees . _build/html
+  - mv _build/html public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
