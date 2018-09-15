@@ -1,7 +1,5 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: 
-- node:8.9
-- python:3.6-alpine
+image: node:8.9
 
 # add 'node_modules' to cache for speeding up builds
 cache:
@@ -19,6 +17,7 @@ before_script:
 
 # the 'pages' job will deploy and build your site to the 'public' path
 gitbook:
+  image: python:3.6-alpine
   stage: gitbook
   script:
   - ./node_modules/.bin/gitbook build . build/gitbook
