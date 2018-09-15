@@ -7,8 +7,7 @@ cache:
   - node_modules/ # Node modules and dependencies
 
 stages:
-- html
-- ebook
+- gitbook
 
 before_script:
 - apt-get -yqq update  && apt-get -o dir::cache::archives="apt-cache" -yqq install calibre
@@ -17,22 +16,15 @@ before_script:
 - ./node_modules/.bin/gitbook install
 
 # the 'pages' job will deploy and build your site to the 'public' path
-html:
-  stage: html
+gitbook:
+  stage: gitbook
   script:
-  - ./node_modules/.bin/gitbook build . build/html # build to public path
+  - ./node_modules/.bin/gitbook build . build/gitbook
+  - ./node_modules/.bin/gitbook pdf ./ ./build/gitbook/ebook.pdf
+  - ./node_modules/.bin/gitbook epub ./ ./build/gitbook/ebook.epub
+  - ./node_modules/.bin/gitbook mobi ./ ./build/gitbook/ebook.mobi
   artifacts:
     paths:
-    - build/html
+    - build/gitbook  # build to gitbook path
   only:
   - master # this job will affect only the 'master' branch
-
-ebook:
-  stage: ebook
-  script:
-  - ./node_modules/.bin/gitbook pdf ./ ./build/ebooks/ebook.pdf
-  - ./node_modules/.bin/gitbook epub ./ ./build/ebooks/ebook.epub
-  - ./node_modules/.bin/gitbook mobi ./ ./build/ebooks/ebook.mobi
-  artifacts:
-    paths:
-    - build/ebooks
