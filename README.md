@@ -1,5 +1,12 @@
-﻿# html5-css3-js-bootstrap4
+# Introduction
 
+# HTML5 CSS3 JS Bootstrap 4
+
+<h5 id="top"></h5>
+
+## Certificate
+
+![Certificate](./Certificate.jpg)
 
 ## Planning
 
@@ -7,7 +14,7 @@
 - Expected Time: 60h ( 50h flow with course and 10h practices)
 - Finish day: 23/08/2018
 
-**Day 1: 12/08/2018**
+<h4 id="day1">Day 1: 12/08/2018</h4>
 
 **Today's progress**
 
@@ -18,11 +25,11 @@
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:**
-1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#why-this-course-and-course-plan)
-2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#editor)
-3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#photoshop)
+1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#section1)
+2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#section2)
+3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#section3)
 
-**Day 2: 13/08/2018**
+<h4 id="day2">Day 2: 13/08/2018</h4>
 
 **Today's progress**
 
@@ -35,9 +42,9 @@
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
 **Link(s) to work:**
-1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#bootstrap-4)
+1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#section4)
 
-**Day 3: 14/08/2018**
+<h4 id="day3">Day 3: 14/08/2018</h4>
 
 **Today's progress**
 
@@ -72,13 +79,13 @@
 
 **Link(s) to work:**
 
-1. [Section 5](./Chapter-1-Introduction+Course-Essentials/README.md#preprocessors-sass-vs-less  )
-2. [Section 6](./Chapter-1-Introduction+Course-Essentials/README.md#trello-the-project-manager)
-3. [Section 7](./Chapter-2-OpenCharity-Overview/README.md#opencharity-overview)
-4. [Section 8](./Chapter-2-OpenCharity-Overview/README.md#prepare-file)
-5. [Section 9](./Chapter-2-OpenCharity-Overview/README.md#linking-file-and-implementing-style-sheet)
+1. [Section 5](./Chapter-1-Introduction+Course-Essentials/README.md#section5)
+2. [Section 6](./Chapter-1-Introduction+Course-Essentials/README.md#section6)
+3. [Section 7](./Chapter-2-OpenCharity-Overview/README.md#section7)
+4. [Section 8](./Chapter-2-OpenCharity-Overview/README.md#section8)
+5. [Section 9](./Chapter-2-OpenCharity-Overview/README.md#section9)
 
-**Day 4: 15/08/2018**
+<h4 id="day4">Day 4: 15/08/2018</h4>
 
 **Today's progress**
 - Finish Section 10: Nav Bar - Part 1
@@ -97,13 +104,13 @@
 
 **Link(s) to work**
 
-1. [Section 10](/Chapter-2-OpenCharity-Overview/README.md#navbar-part-1)
-2. [Section 11](/Chapter-2-OpenCharity-Overview/README.md#navbar-part-2)
-3. [Section 12](/Chapter-2-OpenCharity-Overview/README.md#header-part-1)
-4. [Section 13](/Chapter-2-OpenCharity-Overview/README.md#header-part-2)
-5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#get-involved-section)
+1. [Section 10](/Chapter-2-OpenCharity-Overview/README.md#section10)
+2. [Section 11](/Chapter-2-OpenCharity-Overview/README.md#section11)
+3. [Section 12](/Chapter-2-OpenCharity-Overview/README.md#section12)
+4. [Section 13](/Chapter-2-OpenCharity-Overview/README.md#section13)
+5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#section14)
 
-**Day 5: 16/08/2018**
+<h4 id="day5">Day 5: 16/08/2018</h4>
 
 **Today's progress**
 
@@ -119,13 +126,13 @@
 
 **Link(s) to work**
 
-1. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#mission-section)
-2. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#member-section)
-3. [Section 17](/Chapter-2-OpenCharity-Overview/README.md#event-section)
-4. [Section 18](/Chapter-2-OpenCharity-Overview/README.md#blog-section)
-5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#contact-section-footer-and-footer)
+1. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#section15)
+2. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#section16)
+3. [Section 17](/Chapter-2-OpenCharity-Overview/README.md#section17)
+4. [Section 18](/Chapter-2-OpenCharity-Overview/README.md#section18)
+5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#section19)
 
-**Day 6: 17/08/2018**
+<h4 id="day6">Day 6: 17/08/2018</h4>
 
 **Today's progress**
 
@@ -145,13 +152,13 @@
 
 **Link(s) to work**
 
-1. [Section 20](/Chapter-2-OpenCharity-Overview/README.md#enhancements)
-2. [Section 21](/Chapter-2-OpenCharity-Overview/README.md#testing)
-3. [Section 22](/Chapter-2-OpenCharity-Overview/README.md#repo)
-4. [Section 23](/Chapter-3-404-penguins-page#404-overview)
-5. [Section 24](/Chapter-3-404-penguins-page#404-prepare-file)
+1. [Section 20](/Chapter-2-OpenCharity-Overview/README.md#section20)
+2. [Section 21](/Chapter-2-OpenCharity-Overview/README.md#section21)
+3. [Section 22](/Chapter-2-OpenCharity-Overview/README.md#section22)
+4. [Section 23](/Chapter-3-404-penguins-page#section23)
+5. [Section 24](/Chapter-3-404-penguins-page#section24)
 
-**Day 7: 18/09/2018**
+<h4 id="day7">Day 7: 18/08/2018</h4>
 
 **Today's progress**
 
@@ -177,19 +184,19 @@
 **Through**
 - Using `z-index`, `@keyframes`, `position` to this page.
 - The jQuery API is great
-- Make animation for apge by `@keyframes`
+- Make animation for page by `@keyframes`
 
 **Link(s) to work**
 
-1. [Section 25](/Chapter-3-404-penguins-page#404-start-code)
-2. [Section 26](/Chapter-3-404-penguins-page#404-recap)
-3. [Section 27](/Chapter-4-Merkury-Website#merkury-overview)
-4. [Section 28](/Chapter-4-Merkury-Website#prepare-files)
-5. [Section 29](/Chapter-4-Merkury-Website#linking-files)
-6. [Section 30](/Chapter-4-Merkury-Website#navbar-part-1)
-7. [Section 31](/Chapter-4-Merkury-Website#navbar-part-2)
+1. [Section 25](/Chapter-3-404-penguins-page#section25)
+2. [Section 26](/Chapter-3-404-penguins-page#section26)
+3. [Section 27](/Chapter-4-Merkury-Website#section27)
+4. [Section 28](/Chapter-4-Merkury-Website#section28)
+5. [Section 29](/Chapter-4-Merkury-Website#section29)
+6. [Section 30](/Chapter-4-Merkury-Website#section30)
+7. [Section 31](/Chapter-4-Merkury-Website#section31)
 
-**Day 8: 19/08/2018**
+<h4 id="day8">Day 8: 19/08/2018</h4>
 
 **Today's progress**
 
@@ -211,13 +218,13 @@
 
 **Link(s) to work**
 
-1. [Section 32](/Chapter-4-Merkury-Website#header)
-2. [Section 33](/Chapter-4-Merkury-Website#services-section)
-3. [Section 34](/Chapter-4-Merkury-Website#features-section)
-4. [Section 35](/Chapter-4-Merkury-Website#drag-and-drop-section-part-1)
-5. [Section 36](/Chapter-4-Merkury-Website#drag-and-drop-section-part-2)
+1. [Section 32](/Chapter-4-Merkury-Website#section32)
+2. [Section 33](/Chapter-4-Merkury-Website#section33)
+3. [Section 34](/Chapter-4-Merkury-Website#section34)
+4. [Section 35](/Chapter-4-Merkury-Website#section35)
+5. [Section 36](/Chapter-4-Merkury-Website#section36)
 
-**Day 9: 20/08/2018**
+<h4 id="day9">Day 9: 20/08/2018</h4>
 
 **Today's Progress**
 - Finish Section 37: Template Section
@@ -233,11 +240,11 @@
 
 **Link(s) to work**
 
-1. [Section 37](/Chapter-4-Merkury-Website#template-section)
-2. [Section 38](/Chapter-4-Merkury-Website#pricing-section)
-3. [Section 39](/Chapter-4-Merkury-Website#join-section-and-footer)
+1. [Section 37](/Chapter-4-Merkury-Website#section37)
+2. [Section 38](/Chapter-4-Merkury-Website#section38)
+3. [Section 39](/Chapter-4-Merkury-Website#section39)
 
-**Day 10: 21/08/2018**
+<h4 id="day10">Day 10: 21/08/2018</h4>
 
 **Today's progress**
 - Finish Section 40: Enhancements
@@ -260,12 +267,12 @@
 - I was test build and deploy, directly from my GitLab repository.
 
 **Link(s) to work**
-1. [Section 40](/Chapter-4-Merkury-Website#enhancements)
-2. [Section 41](/Chapter-4-Merkury-Website#testing)
-3. [Section 42](/Chapter-4-Merkury-Website#enhancements)
-4. [Section 41](/Chapter-4-Merkury-Website#important-tips)
+1. [Section 40](/Chapter-4-Merkury-Website#section40)
+2. [Section 41](/Chapter-4-Merkury-Website#section41)
+3. [Section 42](/Chapter-4-Merkury-Website#section42)
+4. [Section 43](/Chapter-4-Merkury-Website#section43)
 
-**Day 11: 26/08/2018**
+<h4 id="day11">Day 11: 26/08/2018</h4>
 
 **Today's progress**
 - Folder Structure include:
@@ -282,7 +289,7 @@
 
 **Link(s) to work**
 
-**Day 12: 27/08/2018**
+<h4 id="day12">Day 12: 27/08/2018</h4>
 
 **Today's progress**
 - Create folder structure for project
@@ -294,7 +301,7 @@
 **Link(s) to work**
 - [Day 1](./important/README.md#section-1)
 
-**Day 13: 6/09/2018**
+<h4 id="day13">Day 13: 06/09/2018</h4>
 
 **Today's progress**
 - Apply pixelpefect to merkury page
@@ -308,7 +315,7 @@
 **Link(s) to work**
 - [Day 2](./important/README.md#section-2)
 
-**Day 14: 12/09/2018**
+<h4 id="day14">Day 14: 12/09/2018</h4>
 
 **Today's progress**
 - Visual regression test
@@ -339,3 +346,7 @@
 
 **Link(s) to work**
 - none
+
+
+
+

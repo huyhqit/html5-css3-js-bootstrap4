@@ -212,48 +212,45 @@ why choose **Visual studio**:
 **Feature of preprocessors**
 
 1. Variables
-	<h5>
+	
 		
-		LESS
+	LESS
 
-			@width: 10px;
-			@height: @width + 10px;
+		@width: 10px;
+		@height: @width + 10px;
 
-		SASS
+	SASS
 
-			$width: 10px;
-			$height: @width + 10px;
-	</h5>
+		$width: 10px;
+		$height: @width + 10px;
+	
 2. Nested rules
-    <h5>
 
-        LESS
-        #header {
-            color: black;
-            .navigation {
-                font-size: 12px;
-            }
-            .logo {
-                width: 300px;
-            }
-        }
-
-		SASS
-        #main p {
-			color: #00ff00;
-			width: 97%;
-
-			.redbox {
-				background-color: #ff0000;
-				color: #000000;
-			}
+	LESS
+	#header {
+		color: black;
+		.navigation {
+			font-size: 12px;
 		}
-    </h5>
+		.logo {
+			width: 300px;
+		}
+	}
+
+	SASS
+	#main p {
+		color: #00ff00;
+		width: 97%;
+
+		.redbox {
+			background-color: #ff0000;
+			color: #000000;
+		}
+	}
+    
 3. Mixins
 
 	Mixins allow you to define styles that can be re-used throughout the stylesheet without needing to resort to non-semantic classes
-
-	<h5>
 
 	LESS
 
@@ -284,8 +281,6 @@ why choose **Visual studio**:
 			padding: 4px;
 			margin-top: 10px;
 		}
-
-</h5>
 
 4. Extends
 

@@ -1,0 +1,8 @@
+before_script:
+  - echo "Before script"
+task_1:
+  script:
+    - echo "task 1"
+task_2:
+  script:
+    - echo "task 2"
