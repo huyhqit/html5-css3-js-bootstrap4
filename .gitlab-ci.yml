@@ -1,23 +1,27 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: node:8.9
-
+image: phusion/passenger-nodejs
 # add 'node_modules' to cache for speeding up builds
 cache:
   paths:
   - node_modules/ # Node modules and dependencies
+  - ~/.cache/pip/
 
 stages:
 - gitbook
+- readthebooks
 
 before_script:
 - apt-get -yqq update  && apt-get -o dir::cache::archives="apt-cache" -yqq install calibre
 - yarn install --silent
 - ./node_modules/.bin/gitbook fetch latest
 - ./node_modules/.bin/gitbook install
+- apt -yqq install python3-pip
+- pip3 install sphinx
+- pip3 install recommonmark
+
 
 # the 'pages' job will deploy and build your site to the 'public' path
 gitbook:
-  image: python:3.6-alpine
   stage: gitbook
   script:
   - ./node_modules/.bin/gitbook build . build/gitbook
@@ -33,13 +37,9 @@ gitbook:
 readthdocs:
   stage: readthedocs
   script:
-  - pip install sphinx
-  - pip install sphinx_rtd_theme
-  - pip install recommonmark
-  - sphinx-build -d _build/doctrees . _build/html
-  - mv _build/html public
+  - sphinx-build -d _build/doctrees . ./build/html
   artifacts:
     paths:
-    - public
+    - build/readthedocs
   only:
   - master
