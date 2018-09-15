@@ -17,7 +17,6 @@ before_script:
 
 # the 'pages' job will deploy and build your site to the 'public' path
 gitbook:
-  image: python:3.6-alpine
   stage: gitbook
   script:
   - ./node_modules/.bin/gitbook build . build/gitbook
@@ -31,6 +30,7 @@ gitbook:
   - master # this job will affect only the 'master' branch
 
 readthdocs:
+  image: python:3.6-alpine
   stage: readthedocs
   script:
   - pip install sphinx
