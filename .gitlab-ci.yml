@@ -1,5 +1,32 @@
 # requiring the environment of NodeJS 8.9.x LTS (carbon)
-image: python:3.6-alpine
+image: phusion/passenger-nodejs
+# add 'node_modules' to cache for speeding up builds
+cache:
+  paths:
+  - node_modules/ # Node modules and dependencies
+
+stages:
+- gitbook
+
+before_script:
+- apt-get -yqq update  && apt-get -o dir::cache::archives="apt-cache" -yqq install calibre
+- yarn install --silent
+- ./node_modules/.bin/gitbook fetch latest
+- ./node_modules/.bin/gitbook install
+
+# the 'pages' job will deploy and build your site to the 'public' path
+gitbook:
+  stage: gitbook
+  script:
+  - ./node_modules/.bin/gitbook build . build/gitbook
+  - ./node_modules/.bin/gitbook pdf ./ ./build/gitbook/ebook.pdf
+  - ./node_modules/.bin/gitbook epub ./ ./build/gitbook/ebook.epub
+  - ./node_modules/.bin/gitbook mobi ./ ./build/gitbook/ebook.mobi
+  artifacts:
+    paths:
+    - build/gitbook  # build to gitbook path
+  only:
+  - master # this job will affect only the 'master' branch
 
 readthdocs:
   stage: readthedocs
