@@ -30,7 +30,7 @@ gitbook:
   - master # this job will affect only the 'master' branch
 
 readthdocs:
-  image: python:3.6-alpine
+#   image: python:3.6-alpine
   stage: readthedocs
   script:
   - pip install sphinx
