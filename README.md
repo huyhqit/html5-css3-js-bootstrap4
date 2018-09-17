@@ -14,7 +14,7 @@
 - Expected Time: 60h ( 50h flow with course and 10h practices)
 - Finish day: 23/08/2018
 
-<h4 id="day1">Day 1: 12/08/2018</h4>
+#### Day 1: 12/08/2018
 
 **Today's progress**
 
@@ -29,7 +29,7 @@
 2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#section2)
 3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#section3)
 
-<h4 id="day2">Day 2: 13/08/2018</h4>
+#### Day 2: 13/08/2018
 
 **Today's progress**
 
@@ -44,7 +44,7 @@
 **Link(s) to work:**
 1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#section4)
 
-<h4 id="day3">Day 3: 14/08/2018</h4>
+#### Day 3: 14/08/2018
 
 **Today's progress**
 
@@ -85,7 +85,7 @@
 4. [Section 8](./Chapter-2-OpenCharity-Overview/README.md#section8)
 5. [Section 9](./Chapter-2-OpenCharity-Overview/README.md#section9)
 
-<h4 id="day4">Day 4: 15/08/2018</h4>
+#### Day 4: 15/08/2018
 
 **Today's progress**
 - Finish Section 10: Nav Bar - Part 1
@@ -110,7 +110,7 @@
 4. [Section 13](/Chapter-2-OpenCharity-Overview/README.md#section13)
 5. [Section 14](/Chapter-2-OpenCharity-Overview/README.md#section14)
 
-<h4 id="day5">Day 5: 16/08/2018</h4>
+#### Day 5: 16/08/2018
 
 **Today's progress**
 
@@ -132,7 +132,7 @@
 4. [Section 18](/Chapter-2-OpenCharity-Overview/README.md#section18)
 5. [Section 19](/Chapter-2-OpenCharity-Overview/README.md#section19)
 
-<h4 id="day6">Day 6: 17/08/2018</h4>
+#### Day 6: 17/08/2018
 
 **Today's progress**
 
@@ -158,7 +158,7 @@
 4. [Section 23](/Chapter-3-404-penguins-page#section23)
 5. [Section 24](/Chapter-3-404-penguins-page#section24)
 
-<h4 id="day7">Day 7: 18/08/2018</h4>
+#### Day 7: 18/08/2018
 
 **Today's progress**
 
@@ -196,7 +196,7 @@
 6. [Section 30](/Chapter-4-Merkury-Website#section30)
 7. [Section 31](/Chapter-4-Merkury-Website#section31)
 
-<h4 id="day8">Day 8: 19/08/2018</h4>
+#### Day 8: 19/08/2018
 
 **Today's progress**
 
@@ -224,7 +224,7 @@
 4. [Section 35](/Chapter-4-Merkury-Website#section35)
 5. [Section 36](/Chapter-4-Merkury-Website#section36)
 
-<h4 id="day9">Day 9: 20/08/2018</h4>
+#### Day 9: 20/08/2018
 
 **Today's Progress**
 - Finish Section 37: Template Section
@@ -244,7 +244,7 @@
 2. [Section 38](/Chapter-4-Merkury-Website#section38)
 3. [Section 39](/Chapter-4-Merkury-Website#section39)
 
-<h4 id="day10">Day 10: 21/08/2018</h4>
+#### Day 10: 21/08/2018
 
 **Today's progress**
 - Finish Section 40: Enhancements
@@ -272,7 +272,7 @@
 3. [Section 42](/Chapter-4-Merkury-Website#section42)
 4. [Section 43](/Chapter-4-Merkury-Website#section43)
 
-<h4 id="day11">Day 11: 26/08/2018</h4>
+#### Day 11: 26/08/2018
 
 **Today's progress**
 - Folder Structure include:
@@ -289,7 +289,7 @@
 
 **Link(s) to work**
 
-<h4 id="day12">Day 12: 27/08/2018</h4>
+#### Day 12: 27/08/2018
 
 **Today's progress**
 - Create folder structure for project
@@ -301,7 +301,7 @@
 **Link(s) to work**
 - [Day 1](./important/README.md#section-1)
 
-<h4 id="day13">Day 13: 06/09/2018</h4>
+#### Day 13: 06/09/2018
 
 **Today's progress**
 - Apply pixelpefect to merkury page
@@ -315,7 +315,7 @@
 **Link(s) to work**
 - [Day 2](./important/README.md#section-2)
 
-<h4 id="day14">Day 14: 12/09/2018</h4>
+#### Day 14: 12/09/2018
 
 **Today's progress**
 - Visual regression test
