@@ -25,6 +25,7 @@
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:**
+
 1. [Section 1](./Chapter-1-Introduction+Course-Essentials/README.md#section1)
 2. [Section 2](./Chapter-1-Introduction+Course-Essentials/README.md#section2)
 3. [Section 3](./Chapter-1-Introduction+Course-Essentials/README.md#section3)
@@ -42,6 +43,7 @@
 - You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
 **Link(s) to work:**
+
 1. [Section 4](./Chapter-1-Introduction+Course-Essentials/README.md#section4)
 
 #### Day 3: 14/08/2018
@@ -88,6 +90,7 @@
 #### Day 4: 15/08/2018
 
 **Today's progress**
+
 - Finish Section 10: Nav Bar - Part 1
     - Implement HTML for navbar
 - Finish Section 11: Nav Bar - Part 2
@@ -147,6 +150,7 @@
 - Finish Section 24: 404 Prepare File
 
 **Through**
+
 - Test website is importain
 - Optimize the picture helps performance very fast
 
@@ -182,6 +186,7 @@
     - Implement animation for UI navbar by jquery
 
 **Through**
+
 - Using `z-index`, `@keyframes`, `position` to this page.
 - The jQuery API is great
 - Make animation for page by `@keyframes`
@@ -213,6 +218,7 @@
     - Using jQuery UI create action for task.
 
 **Throught**
+
 - `@keyframes` make animation easy
 - jQuery ui makes dragging and dropping simple.
 
@@ -227,6 +233,7 @@
 #### Day 9: 20/08/2018
 
 **Today's Progress**
+
 - Finish Section 37: Template Section
     - Implement UI for Template section
 - Finish Section 38: Pricing Section
@@ -247,6 +254,7 @@
 #### Day 10: 21/08/2018
 
 **Today's progress**
+
 - Finish Section 40: Enhancements
     - Fix bug UI in small devices
     - Effects when crolling pages
@@ -263,10 +271,12 @@
     - Have three directions after learning this course
 
 **Throught**
+
 - CSS effect is quite interesting
 - I was test build and deploy, directly from my GitLab repository.
 
 **Link(s) to work**
+
 1. [Section 40](/Chapter-4-Merkury-Website#section40)
 2. [Section 41](/Chapter-4-Merkury-Website#section41)
 3. [Section 42](/Chapter-4-Merkury-Website#section42)
@@ -275,6 +285,7 @@
 #### Day 11: 26/08/2018
 
 **Today's progress**
+
 - Folder Structure include:
     - assets: 
         - img
@@ -285,6 +296,7 @@
 - Using extension 'pixelperfect' or code to check distance elements.
   
 **Throught**
+
 - HTML CSS is not as simple as i throught.
 
 **Link(s) to work**
@@ -292,36 +304,44 @@
 #### Day 12: 27/08/2018
 
 **Today's progress**
+
 - Create folder structure for project
 - Learn more about the functionality of each folder
 
 **Throught**
+
 - Should detail the tasks of each file in each folder
 
 **Link(s) to work**
+
 - [Day 1](./important/README.md#section-1)
 
 #### Day 13: 06/09/2018
 
 **Today's progress**
+
 - Apply pixelpefect to merkury page
 - Learn more about HTML CSS
 
 **Throught**
+
 - Understand the use of margin and padding in CSS
 - Not confuse class name
 - The order of restricting the use of z-index tags
 
 **Link(s) to work**
+
 - [Day 2](./important/README.md#section-2)
 
 #### Day 14: 12/09/2018
 
 **Today's progress**
+
 - Visual regression test
 - Production build
 
 **Throught**
+
 - Visual regression test:
     - Apply regression test and its importance in frontend development
     - [Jest](https://jestjs.io/) to test all Javascript
@@ -345,6 +365,7 @@
                 - CSS: Critical/ above the fold, remove used CSS
 
 **Link(s) to work**
+
 - none
 
 
