@@ -34,11 +34,9 @@ Day 1: 12/08/2018
 **Thoughts:** i am interesting this course
 
 **Link(s) to work:** 1. `Section
-1 <./Chapter-1-Introduction+Course-Essentials/README.md#section1>`__ 2.
-`Section
-2 <./Chapter-1-Introduction+Course-Essentials/README.md#section2>`__ 3.
-`Section
-3 <./Chapter-1-Introduction+Course-Essentials/README.md#section3>`__
+1. `Section 1 <./Chapter-1-Introduction+Course-Essentials/README.md#section1>`__
+2. `Section 2 <./Chapter-1-Introduction+Course-Essentials/README.md#section2>`__
+3. `Section 3 <./Chapter-1-Introduction+Course-Essentials/README.md#section3>`__
 
 Day 2: 13/08/2018
 ^^^^^^^^^^^^^^^^^
@@ -55,7 +53,7 @@ Day 2: 13/08/2018
    you some time and reduce the amount of css that your run.
 
 **Link(s) to work:** 1. `Section
-4 <./Chapter-1-Introduction+Course-Essentials/README.md#section4>`__
+4. `Section 4 <./Chapter-1-Introduction+Course-Essentials/README.md#section4>`__
 
 Day 3: 14/08/2018
 ^^^^^^^^^^^^^^^^^
@@ -306,11 +304,12 @@ directions after learning this course
 **Throught** - CSS effect is quite interesting - I was test build and
 deploy, directly from my GitLab repository.
 
-**Link(s) to work** 1. `Section
-40 </Chapter-4-Merkury-Website#section40>`__ 2. `Section
-41 </Chapter-4-Merkury-Website#section41>`__ 3. `Section
-42 </Chapter-4-Merkury-Website#section42>`__ 4. `Section
-43 </Chapter-4-Merkury-Website#section43>`__
+**Link(s) to work**
+
+1. `Section 40 </Chapter-4-Merkury-Website#section40>`__
+2. `Section 41 </Chapter-4-Merkury-Website#section41>`__
+3. `Section 42 </Chapter-4-Merkury-Website#section42>`__
+4. `Section 43 </Chapter-4-Merkury-Website#section43>`__
 
 Day 11: 26/08/2018
 ^^^^^^^^^^^^^^^^^^
@@ -319,19 +318,25 @@ Day 11: 26/08/2018
 - styles - script - Finish html before code css. - Using extension
 'pixelperfect' or code to check distance elements.
 
-**Throught** - HTML CSS is not as simple as i throught.
+**Throught** 
+
+- HTML CSS is not as simple as i throught.
 
 **Link(s) to work**
 
 Day 12: 27/08/2018
 ^^^^^^^^^^^^^^^^^^
 
-**Today's progress** - Create folder structure for project - Learn more
-about the functionality of each folder
+**Today's progress**
+
+- Create folder structure for project
+- Learn more about the functionality of each folder
 
 **Throught** - Should detail the tasks of each file in each folder
 
-**Link(s) to work** - `Day 1 <./important/README.md#section-1>`__
+**Link(s) to work**
+
+- `Day 1 <./important/README.md#section-1>`__
 
 Day 13: 06/09/2018
 ^^^^^^^^^^^^^^^^^^
@@ -342,14 +347,20 @@ about HTML CSS
 **Throught** - Understand the use of margin and padding in CSS - Not
 confuse class name - The order of restricting the use of z-index tags
 
-**Link(s) to work** - `Day 2 <./important/README.md#section-2>`__
+**Link(s) to work**
+
+- `Day 2 <./important/README.md#section-2>`__
 
 Day 14: 12/09/2018
 ^^^^^^^^^^^^^^^^^^
 
-**Today's progress** - Visual regression test - Production build
+**Today's progress**
 
-**Throught** - Visual regression test: - Apply regression test and its
+- Visual regression test - Production build
+
+**Throught** 
+
+- Visual regression test: - Apply regression test and its
 importance in frontend development - `Jest <https://jestjs.io/>`__ to
 test all Javascript - `Selenium
 WebDriver <https://www.seleniumhq.org/projects/webdriver/>`__ -
