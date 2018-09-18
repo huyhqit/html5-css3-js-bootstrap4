@@ -90,7 +90,7 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'collapse_navigation': False,
+    'collapse_navigation': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'logo_only': False,
