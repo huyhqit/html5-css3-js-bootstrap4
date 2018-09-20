@@ -8,6 +8,7 @@ stages:
 - gitbook
 - readthedocs
 gitbook:
+  stage: gitbook
   script:
   - ./node_modules/.bin/gitbook build ./ public/gitbook-html
   - ./node_modules/.bin/gitbook pdf ./ ./public/ebooks/ebook.pdf
@@ -17,6 +18,7 @@ gitbook:
     paths:
     - public
 readthedocs:
+  stage: readthedocs
   script:
   - sphinx-versioning build . ./public/readthedocs-html
   - sphix-build -b epub . ./public/reathedocs-ebooks
