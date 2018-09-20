@@ -22,7 +22,7 @@ readthedocs:
   stage: readthedocs
   script:
   - sphinx-versioning build . ./public/readthedocs-html
-  - sphix-build -b epub . ./public/readthedocs-ebooks
+  - sphinx-build -b epub . ./public/readthedocs-ebooks
   artifacts:
     paths:
     - public/readthedocs-html
