@@ -16,7 +16,7 @@ gitbook:
   artifacts:
     paths:
     - public
-reathedocs:
+readthedocs:
   script:
   - sphinx-versioning build . ./public/readthedocs-html
   - sphix-build -b epub . ./public/reathedocs-ebooks
