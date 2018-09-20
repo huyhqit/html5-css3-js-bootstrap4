@@ -1,12 +1,12 @@
 ﻿
-<h1 id="section1">Why this course and Course plan</h1>
+## Why this course and Course plan
 
-**Overview**
+### Overview
 - Overview the course and plan
 
-**Detail**
+### Detail
 
-**Why this course**
+### Why this course
 
 - Những công nghệ học được từ course đều được áp dụng vào website
 - Hướng dẫn tạo responsive và từng bước một sử dụng photoshop
@@ -18,28 +18,28 @@
 - Build 3 stunning responsive websites
 - Explain + apply many difference technology to website
 
-**Course Plan**
+### Course Plan
 
-**Goal of this course:**
+### Goal of this course:
 
 	- Convert 3 file PSD
 	- Code 3 stunning websites
 	- Build 3 responsive websites
 	
-**Photoshop**
+### Photoshop
 
 	-	Use Photoshop
 	-	Get color and font
 	-	Explain the most common tool of adobe photoshop
 	-	Control layers and useful short cuts...
 	
-**Bootstrap 4**
+### Bootstrap 4
 
 	-	Introduction of bootstrap 4 and grid systems
 	-	use components like forms, input, card,...
 	-	Further explain most common bootstrap 4 classis
 	
-**Sass & Less CSS preprocessor**
+### Sass & Less CSS preprocessor
 
 - What is a preprocessor?
 - Why should use?
@@ -47,13 +47,13 @@
 - How to install it
 - Feature of Less and Sass
 
-**Trello**
+### Trello
 
 - What is it?
 - Why use it?
 - How can use it in to our project
 
-**While we are working with this websites you will learn how to:**
+### While we are working with this websites you will learn how to:
 
 1. Prepare your website files
 2. Write reusable code with comments for section
@@ -65,11 +65,11 @@
 8. Use animate CSS library to animation some elements
 9. After we are going to check responsive and Performance of websites
 
-**404 - penguins page**
+### 404 - penguins page
 
 	- Advanced CSS keyframes animation and positoning
 	
-**Merkury Website**
+### Merkury Website
 
 #### 2 projects
 
@@ -82,16 +82,17 @@
 7. Finish solutions working around
 8. After we finish check responsive website and performance
 
-**Bookmark**
+### Bookmark
+
 - None
 
-<h1 id='section2'>Editor</h1>
+## Editor
 
-**Overview**
+### Overview
 
 - Introduction VSCode Editor
 
-**Details**
+### Details
 why choose **Visual studio**:
  - Có sẵn cả trên Windows, Mac, Linux
  - Hỗ trợ terminal đi kèm trong từng file code
@@ -102,15 +103,16 @@ why choose **Visual studio**:
 	- Live Sass compiler
 	- Sass
 
-**Bookmark**
+### Bookmark
+
 - [Link Download VSCode](https://code.visualstudio.com/Download)
 
 <h1 id='section3'> Photoshop</h1>
 
-**Overview**
+### Overview
 - Step by step use Adobe Photoshop
 
-**Details**
+### Details
 
 - Sử dụng photoshop để cắt các layout websites
 	- Tạo file mới: Ctrl + N
@@ -122,17 +124,17 @@ why choose **Visual studio**:
 	- Crop hình: C
 	- Move layout: V
 
-**Bookmark**
+### Bookmark
 - [Get step-by-step instructions](https://helpx.adobe.com/photoshop/user-guide.html)
 
-<h1 id='section4'>Bootstrap 4</h1>
+## Bootstrap 4
 
-**Overview**
+### Overview
 
 - What is bootstrap
 - What does the bootstrap include?
 
-**Details**
+### Details
 
 - Bootstrap is an framework and open source toolkit for developing with HTML, CSS and Javascript
 - Bootstrap is used to build responsive mobile on the web
@@ -184,36 +186,32 @@ why choose **Visual studio**:
 		
 	**Tip**: You can use css and instead of utility class but these classes buy you some time and reduce the amount of css that your run.
 
-**Bookmark**
+### Bookmark
 
 [Bootstrap 4 docs](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
-<h1 id='section5'>Preprocessors SASS vs LESS</h1>
+## Preprocessors SASS vs LESS
 
-**Overview**
+### Overview
 
 - What is LESS and SASS?
 - Difference between LESS vs SASS?
 - How to use?
 
-**Details**
+### Details
 
 - Syntactically Awesome Stylesheets (Sass) and Leaner CSS (LESS) are both CSS preprocessors
 - Both Sass and LESS compile into CSS stylesheets so that browsers can read them, which is a necessary step because modern browsers cannot read .sass or .less file types
 
-`1.` SASS is in Ruby. LESS is in Javascript
+1. SASS is in Ruby. LESS is in Javascript
+2. To assign variables: SASS uses $; LESS uses @
+3. SASS has Compass, LESS has Preboot
+4. LESS has better Error messages than SASS
 
-`2.` To assign variables: SASS uses $; LESS uses @
-
-`3.` SASS has Compass, LESS has Preboot
-
-`4.` LESS has better Error messages than SASS
-
-**Feature of preprocessors**
+### Feature of preprocessors
 
 1. Variables
 	
-		
 	LESS
 
 		@width: 10px;
@@ -286,7 +284,7 @@ why choose **Visual studio**:
 
 5. Inline Imports
 
-**Using Sass:**
+### Using Sass:
 - Add extensions:
 	- 	LESS: Easy LESS
 	-	SASS: Live Sass Compiler
@@ -297,20 +295,20 @@ why choose **Visual studio**:
 	- Other [Read more here](https://sass-lang.com/install)
 
 
-**Bookmark**
+### Bookmark
 
 - [Difference between LESS and SASS](https://www.thebalancecareers.com/sass-vs-less-2071912)
 - [LESS docs](http://lesscss.org)
 - [SASS docs](https://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
-<h1 id='section6'>Trello</h1>
+## Trello
 
-**Overview**
+### Overview
 
 - Why use Trello?
 - How to use?
 
-**Details**
+### Details
 
 - Why use trello?
     - It's free. 
@@ -324,6 +322,6 @@ why choose **Visual studio**:
     - Step 2: Add List. Example `To do` `In progress` `Test` `Done`
     - Step 3: Add cards to List
 
-**Bookmark**
+### Bookmark
 
 - Go to [Trello](https://trello.com/) now.
