@@ -1,0 +1,9 @@
+version: '3.2'
+
+services:
+    docs:
+        build:
+            context: .
+        tty: true
+        volumes:
+        - ./:/code
