@@ -16,12 +16,14 @@ gitbook:
   - ./node_modules/.bin/gitbook mobi ./ ./public/ebooks/ebook.mobi
   artifacts:
     paths:
-    - public
+    - public/gitbook-html
+    - public/gitbook-ebooks
 readthedocs:
   stage: readthedocs
   script:
   - sphinx-versioning build . ./public/readthedocs-html
-  - sphix-build -b epub . ./public/reathedocs-ebooks
+  - sphix-build -b epub . ./public/readthedocs-ebooks
   artifacts:
     paths:
-    - public
+    - public/readthedocs-html
+    - public/readthedocs-ebooks
