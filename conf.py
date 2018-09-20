@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 import sys, os
 
-# import sphinx_rtd_theme
+import sphinx_rtd_theme
 
 primary_domain = 'js'
 
