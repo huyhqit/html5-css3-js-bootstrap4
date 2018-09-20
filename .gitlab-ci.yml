@@ -3,7 +3,6 @@ cache:
   paths:
   - node_modules/
 before_script:
-- pip3 install -q sphinx==1.4 sphinx_rtd_theme recommonmark sphinxcontrib-versioning
 - npm install --silent
 stages:
 - gitbook
