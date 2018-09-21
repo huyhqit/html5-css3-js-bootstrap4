@@ -1,11 +1,11 @@
-<h1 id="section27">Merkury Overview</h1>
+## Merkury Overview
 
-**Overview**
+### Overview
 
 - This is the project that we are going to build and it's a full introductory website of the mercury dashboard the site displays the important features and the workflow and the portfolio design of the Mercure through this project.
 - We are going to learn a lot beginning with making powerful an animation by CSS and positioning elements
 
-**Details**
+### Details
 
 - Website is the notebook
 - If we scroll down and watch the Navar you can see the transition that's happening to dashboard also the background color changes from transparent to light blue color.
@@ -23,17 +23,17 @@
     - It contains a text and a button and two separate line
 - Have a simple footer with some links and social icons.
 
-**Bookmark**
+### Bookmark
 
 None
 
-<h1 id="section28">Prepare Files</h1>
+## Prepare Files
 
-**Overview**
+### Overview
 
 - Prepare files for Merkury code's project
 
-**Details**
+### Details
 - Create the website folders with it's files
 - Create a readme.txt file
 - Create an images folder and an icons folder inside of it
@@ -42,36 +42,36 @@ None
 - Download and save bootstrap 4 to the project folder
 - Download and save jquery, popper.min.js
 
-**Bookmark**
+### Bookmark
 
 - [PSD](https://drive.google.com/open?id=1TExw5ZQgVOpBKnA0UkGH5yPAVgDhrFTo)
 - [Bootstrap 4](http://getbootstrap.com/docs/4.1/getting-started/introduction/)
 - [jQuery](https://jquery.com/download/)
 - [Popper.min.js](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js)
 
-<h1 id="section29">Linking Files</h1>
+## Linking Files
 
-**Overview**
+### Overview
 
 - Linking file and making some variables for color and font
 
-**Details**
+### Details
 
 - Create some variables color and font
 - Genral reset using [meyerweb](https://meyerweb.com/eric/tools/css/reset/)
 - Custom settings html, body,... tags
 
-**Bookmark**
+### Bookmark
 
 None
 
-<h1 id="section30">Navbar Part 1</h1>
+## Navbar Part 1
 
-**Overview**
+### Overview
 
 - Create nav bar section
 
-**Details**
+### Details
 
 - Nav bar includes: 
     - Feature
@@ -80,7 +80,7 @@ None
     - Pricing
 - Customize class `navbar-toggler` `nav-item` `nav-link`
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -88,18 +88,18 @@ None
 
 ![Nav Section](./Merkury/section30.png)
 
-<h1 id="section31">Navbar Part 2</h1>
+## Navbar Part 2
 
-**Overview**
+### Overview
 
 - Using jQuery
 
-**Details**
+### Details
 - Close responsive menu when a scroll trigger link is clicked
 - Activate scrollspy to add active class the navbar items on scroll
 - On scroll down if the offset is higher than 50 pixels add navbar shrink class class else remove that class
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -107,20 +107,20 @@ None
 
 ![Nav Section](./Merkury/section31.PNG)
 
-<h1 id="section32">Header</h1>
+## Header
 
-**Overview**
+### Overview
 
 - Implement UI for Header section
 
-**Details**
+### Details
 - The blue background and the grid image in one group
 - Behind is the graphic image.
 - Make a keyframes and animation on it
 - The button `Get started`. Click on this button go to down to the services section right here.
 - To make this responsive image float just like the images of class in the bootstrap
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -128,19 +128,19 @@ None
 
 ![Nav Section](./Merkury/section32.PNG)
 
-<h1 id="section33">Services Section</h1>
+## Services Section
 
-**Overview**
+### Overview
 
 - Implement UI for services section
 
-**Details**
+### Details
 
 - The section need a row.
 - Inside a row have three column and four deaths and here is a really thin separator.
 - Inside a column have an image a title and some description and a bottom.
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -148,19 +148,19 @@ None
 
 ![Nav Section](./Merkury/section33.PNG)
 
-<h1 id="section34">Features Section</h1>
+## Features Section
 
-**Overview**
+### Overview
 
 - Implement UI for feature section
 
-**Details**
+### Details
 
 -  Have two column:
     -  There is a image.
     -  There's a group of elements.
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -168,14 +168,14 @@ None
 
 ![Nav Section](./Merkury/section34.PNG)
 
-<h1 id="section35">Drag and Drop Section Part 1</h1>
+## Drag and Drop Section Part 1
 
-**Overview**
+### Overview
 
 - Implement UI for Drag & Drop section
 - The Drag & Drop feature allow user keep track task like Trello.com
 
-**Details**
+### Details
 
 -  Have Three column:
     -  The first column is `In Progress` have three cards
@@ -194,7 +194,7 @@ None
 -  Using column bootstrap. 
 -  Card and dropdown in bootstrap component.
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -202,19 +202,19 @@ None
 
 ![Drag and drop section](./Merkury/section35.PNG)
 
-<h1 id="section36">Drag and Drop Section part 2</h1>
+## Drag and Drop Section part 2
 
-**Overview**
+### Overview
 
 - Improved UI for Drag and Drops Section.
 - Integrate jQuery UI for this section
 
-**Details**
+### Details
 
 - Improved UI for Drag and Drops Section.
 - Using jQuery UI crate action drag and drop for task
 
-**Bookmark**
+### Bookmark
 
 - Download jQuery UI [here](https://jqueryui.com/download/)
 
@@ -222,18 +222,18 @@ None
 
 ![Drag and drop section](./Merkury/section36.PNG)
 
-<h1 id="section37">Template Section</h1>
+## Template Section
 
-**Overview**
+### Overview
 
 - Implement UI for Template section
 
-**Details**
+### Details
 
 - The idea from the section is the dashboard template image is hidden and when users are hovers under section two lines appeared and reached the dashboard image and then the dashboard image appears setup an image.
 - After that an infinite float animation happens to the dashboard image.
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -241,13 +241,13 @@ None
 
 ![Template section](./Merkury/section37.PNG)
 
-<h1 id="section38">Pricing Section</h1>
+## Pricing Section
 
-**Overview**
+### Overview
 
 - Implement UI for Pricing section
 
-**Details**
+### Details
 
 - Section have three column about Pricing model
 - Inside column have a card
@@ -256,7 +256,7 @@ None
     - Price
     - Features
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -264,19 +264,19 @@ None
 
 ![Pricing section](./Merkury/section38.PNG)
 
-<h1 id="section39">Join Section and Footer</h1>
+## Join Section and Footer
 
-**Overview**
+### Overview
 
 - Implement UI for Join section and Footer
 
-**Details**
+### Details
 
 - Join section have two paragraphs
 - And a botton between two line.
 - Footer have a copyright area text some links and some social icons.
 
-**Bookmark**
+### Bookmark
 
 None
 
@@ -284,21 +284,21 @@ None
 
 ![Pricing section](./Merkury/section39.PNG)
 
-<h1 id="section40">Enhancements</h1>
+## Enhancements
 
-**Overview**
+### Overview
 
 - Check reponsive and add some media queries
 - Add Smooth Scroll
 - Animation with SrollReveal
 
-**Details**
+### Details
 
 - Bug reponsive when `width <= 768px` and `width between 768px and 991px`
 - Add smooth scroll help coating smooth
 - ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.
 
-**Bookmark**
+### Bookmark
 - [Smooth Scroll](https://css-tricks.com/snippets/jquery/smooth-scrolling/#article-header-id-1)
 - [ScrollReveal](https://github.com/scrollreveal/scrollreveal)
 
@@ -306,9 +306,9 @@ None
 
 - [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
 
-<h1 id="section41">Testing</h1>
+## Testing
 
-**Overview**
+### Overview
 
 - Compressing images
 - Cross browser testing
@@ -316,7 +316,7 @@ None
 - W3C markup validation service
 - Website speed test
 
-**Details**
+### Details
 
 - Using optimizilla to optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
 - Cross browser is testing in chrome, firefox, IE.
@@ -324,7 +324,7 @@ None
 - This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
 - Using pingdom to speed test website.
 
-**Bookmark**
+### Bookmark
 - [Pingdom test](https://tools.pingdom.com/#!/9UB6f/https://hopeful-booth-27591f.netlify.com/)
 
 **Result**
@@ -333,13 +333,13 @@ None
 - [Go to Merkury site](https://merkury-frontend.netlify.com)
 - ![Ping dom test result](./Merkury/section41.PNG)
 
-<h1 id="section42">Recap</h1>
+## Recap
 
-**Overview**
+### Overview
 
 - Summarizes the code Merkury project process.
 
-**Details**
+### Details
 
 - Export images and getting colors and fonts on our website
 - Prepare file the project files and folders using the Trello to do list.
@@ -353,18 +353,18 @@ None
 - Increased the website performance by optimizing the images and run the markup and speed test
 - Fix some markup errors and warnings and tested the website on the old and the modern browsers.
 
-**Bookmark**
+### Bookmark
 
 - [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
 - [Go to Merkury site](https://merkury-frontend.netlify.com)
 
-<h1 id="section42">Important Tips</h1>
+## Important Tips
 
-**Overview**
+### Overview
 
 - After this course, their many directions but the best three directions.
 
-**Details**
+### Details
 
 - Three directions are:
     - Learn `CMS` which is content managemant system.
@@ -373,7 +373,7 @@ None
 - Email this course instructor:
     - mero.hegazi77@gmail.com
 
-**Bookmark**
+### Bookmark
 
 - [CMS](https://www.quora.com/What-is-the-best-way-to-learn-CMS)
 - [Go to the Merkury Project](./Chapter-4-Merkury-Website/Merkury)
