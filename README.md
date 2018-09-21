@@ -2,17 +2,17 @@
 
 # HTML5 CSS3 JS Bootstrap 4
 
-<h5 id="top"></h5>
-
-## Certificate
+#### Certificate
 
 ![Certificate](./Certificate.jpg)
 
-## Planning
-
+#### Planning  
 
 - Expected Time: 60h ( 50h flow with course and 10h practices)
 - Finish day: 23/08/2018
+
+----------------------
+
 
 #### Day 1: 12/08/2018
 
