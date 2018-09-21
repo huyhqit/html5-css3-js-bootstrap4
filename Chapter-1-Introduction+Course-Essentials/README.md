@@ -107,7 +107,7 @@ why choose **Visual studio**:
 
 - [Link Download VSCode](https://code.visualstudio.com/Download)
 
-<h1 id='section3'> Photoshop</h1>
+## Photoshop
 
 ### Overview
 - Step by step use Adobe Photoshop
