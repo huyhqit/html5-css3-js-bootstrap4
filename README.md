@@ -107,7 +107,7 @@
 
 #### Throughts:
 
-#### Link(s) to work::
+#### Link(s) to work:
 
 1. [Section 10](/Chapter-2-OpenCharity-Overview/README.md#section10)
 2. [Section 11](/Chapter-2-OpenCharity-Overview/README.md#section11)
@@ -129,7 +129,7 @@
 
 - Bootstrap Carousel is old slider and can't be easily customized.
 
-#### Link(s) to work::
+#### Link(s) to work:
 
 1. [Section 15](/Chapter-2-OpenCharity-Overview/README.md#section15)
 2. [Section 16](/Chapter-2-OpenCharity-Overview/README.md#section16)
@@ -156,7 +156,7 @@
 - Test website is importain
 - Optimize the picture helps performance very fast
 
-#### Link(s) to work::
+#### Link(s) to work:
 
 1. [Section 20](/Chapter-2-OpenCharity-Overview/README.md#section20)
 2. [Section 21](/Chapter-2-OpenCharity-Overview/README.md#section21)
@@ -286,7 +286,7 @@
 
 ### Day 11: 26/08/2018
 
-#### Today's progress::
+#### Today's progress:
 
 - Folder Structure include:
     - assets: 
