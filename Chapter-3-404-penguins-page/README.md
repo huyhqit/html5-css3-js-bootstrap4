@@ -44,8 +44,8 @@
 ### Details
 - CSS:
     - `z-index`: 
-                - The `z-index` property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order.
-                - `z-index` only works on positioned elements (position:absolute, position:relative, or position:fixed).
+        - The `z-index` property specifies the stack order of an element. An element with greater stack order is always in front of an element with a lower stack order.
+        - `z-index` only works on positioned elements (position:absolute, position:relative, or position:fixed).
     -  `@keyframes` rule specifiles the animation code.
     - The `position` property specifies the type of positioning method used for an element (static, relative, absolute, fixed, or sticky).
     - CSS `transitions` allows you to change property values smoothly (from one value to another), over a given duration.
