@@ -27,9 +27,9 @@ from recommonmark.transform import AutoStructify
 
 primary_domain = 'js'
 
-project = 'a'
-copyright = '2018, a'
-author = 'a'
+project = 'HTML5 CSS3 JS Bootstrap 4'
+copyright = '2018, Pass'
+author = 'Huy Ho'
 
 # The short X.Y version
 version = '1.0.0'
